@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<title>TITAN Awakens (Build 007R repair preview)</title>
+<title>TITAN Awakens (Build 007S)</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="icon" href="data:,">
 <link rel="stylesheet" href="style.css">
@@ -29,6 +29,8 @@
     <button id="bRun" class="tb small" aria-label="Run">Run</button>
     <button id="bCam" class="tb small" title="Recenter camera">⟲</button>
   </div>
+  <div id="deskBar"><button id="dTalk" class="db act hidden"></button><button id="dAtk" class="db hidden"><b>⚔ Attack</b><kbd>Q</kbd></button><button id="dSpec" class="db hidden"></button><button id="dWolf" class="db hidden"><b>🐺 Wolfie</b><kbd>F</kbd></button><button id="dJump" class="db"><b>Jump</b><kbd>Space</kbd></button><button id="dCam" class="db"><b>⟲ Camera</b><kbd>C</kbd></button></div>
+  <div id="deskHint"><button id="dhX" title="Hide">×</button><b>Mouse controls</b><div>🖱 <u>Click</u> the ground to run there · click a person or object to go and use it</div><div>⚔ <u>Double-click</u> an enemy to attack it</div><div>↻ <u>Right-drag</u> turns the camera · <u>wheel</u> zooms</div><div>⌨ WASD / arrows still work · Shift = run · E = interact · Space = jump</div></div>
   <button id="bMenu" class="mb">☰</button>
   <button id="bHeroes" class="mb hb hidden" title="Heroes">👥</button>
   <button id="bEmote" class="mb hb hidden" title="Emotes">🎉</button>
@@ -43,9 +45,9 @@
     <button class="card" data-hero="ezra"><b>Ezra</b><span>Quick young adventurer</span></button>
   </div>
   <button id="bStart" class="go">Start adventure</button>
-  <p class="hint">Move: WASD / arrows or the left thumb-stick · Run: Shift or the Run button · Talk: E · Jump: Space (or the Jump button) · Star-burst: Q or the ✦ button</p>
+  <p class="hint">Move: click the ground (mouse), WASD / arrows, or the left thumb-stick · Run: Shift or the Run button · Talk: E · Jump: Space (or the Jump button) · Star-burst: Q or the ✦ button</p>
 </div>
-<div id="title" class="hidden"><div class="tc"><h1>TITAN Awakens</h1><h2>A Torkvara adventure · Build 007R repair preview</h2>
+<div id="title" class="hidden"><div class="tc"><h1>TITAN Awakens</h1><h2>A Torkvara adventure · Build 007S</h2>
   <button id="bBegin" class="go">▶ Begin the story</button><div class="trow"><button id="bSkipIntro" class="ghost">Skip the opening</button><button id="bClassic" class="ghost">Classic chapter (choose hero)</button></div><div class="trow"><button id="bTesterT" class="ghost">🧪 Tester menu</button></div><button id="bCpGo" class="go hidden"></button><button id="bCh2" class="go hidden">▶ Continue: Chapter 2 — Whisperwood</button><button id="bCh3" class="go hidden">▶ Continue: Chapter 3 — The Staff</button><button id="bFree" class="go hidden">▶ Continue: Free roam</button>
   <p class="hint">Sound on! The opening story is narrated (about 2 minutes). Tap Skip any time.</p></div></div>
 <div id="cine" class="hidden"><div id="cBg"></div><div id="cImgs"></div><div id="cTitle"></div><div id="cFlash"></div>
@@ -57,7 +59,7 @@
 <div class="mrow"><button id="mEmote">🎉 Emotes</button><button id="mTester">🧪 Tester menu</button></div>
 <button id="mReplay">Replay opening story</button><button id="mQuality">Graphics: auto</button><button id="mDiag">Diagnostics: off</button><button id="mCamReset">Reset camera</button><button id="mCam">Camera follow: on</button><button id="mRestart">Restart chapter</button><div id="credits"></div></div></div>
 <div id="emote" class="hidden"><div class="hc"><h3>🎉 Emotes</h3><p class="sub">Celebrate any time. Dances play from the hero you are controlling.</p><div id="emoteBtns"></div><button id="emClose">Close</button></div></div>
-<div id="tester" class="hidden"><div class="hc"><h3>🧪 Tester menu <small>Build 007R</small></h3>
+<div id="tester" class="hidden"><div class="hc"><h3>🧪 Tester menu <small>Build 007S</small></h3>
 <p class="sub">Checkpoints reload the game cleanly at that point (your normal save is not touched; tester progress uses its own save key).</p>
 <div class="trow2"><button id="tSkipOpen">⏭ Skip opening</button><button id="tSkipDlg">⏭ Skip dialogue / cutscene</button><button id="tRestart">↻ Restart encounter</button><button id="tReset">⟲ Reset tester checkpoint</button></div>
 <div class="trow2"><button id="tGod">God mode: off</button><button id="tHeal">❤ Heal</button><button id="tDbg">Debug overlay: off</button></div>

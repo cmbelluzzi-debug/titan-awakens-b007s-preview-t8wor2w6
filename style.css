@@ -168,3 +168,40 @@ body.talking #bTalk,body.talking #bSpec,body.talking #bSwap,body.talking #bWolf{
 
 #titanBtn{position:fixed;left:50%;bottom:248px;white-space:nowrap;transform:translateX(-50%);z-index:30;padding:12px 18px;border-radius:26px;border:2px solid #ffe9a8;background:rgba(40,30,10,.82);color:#ffe9a8;font:700 16px system-ui;touch-action:manipulation}
 #titanBtn.hidden{display:none}
+
+/* ---- Build 007S Stage C: desktop (mouse) layout. Touch devices keep the joystick HUD above; these rules only apply to body.desk ---- */
+#deskBar,#deskHint,#deskTip{display:none}
+body.desk #deskBar{display:flex;position:absolute;left:50%;bottom:calc(18px + env(safe-area-inset-bottom));transform:translateX(-50%);gap:10px;pointer-events:none;align-items:flex-end}
+body.desk .db{pointer-events:auto;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:3px;min-width:104px;padding:9px 14px 7px;border-radius:14px;border:2px solid #ffffff66;background:#16291fd9;color:#fff;font:inherit;font-size:15px;-webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px)}
+body.desk .db:hover{background:#244634f0;border-color:#ffe9a3}
+body.desk .db b{font-weight:bold}body.desk .db kbd{font:inherit;font-size:11px;opacity:.75;border:1px solid #fff6;border-radius:5px;padding:0 6px}
+body.desk .db.act{background:#2a5a8af0;border-color:#cfe8ff;font-size:17px;min-width:150px}
+body.desk #dSpec{background:#7a2a2ad9}body.desk #dAtk{background:#4a2f7ad9}
+body.desk #deskBar .db.hidden{display:none}
+body.talking #deskBar{visibility:hidden}
+body.desk #deskHint{display:block;position:absolute;left:14px;bottom:calc(14px + env(safe-area-inset-bottom));max-width:340px;background:#10201acc;border:1px solid #f5e6b866;border-radius:12px;padding:9px 14px 9px;font-size:13px;line-height:1.5;pointer-events:auto;opacity:.92}
+body.desk #deskHint b{color:#ffe9a3;display:block;margin-bottom:2px}body.desk #deskHint u{text-decoration:none;color:#ffe9a3;font-weight:bold}
+body.desk #deskHint #dhX{position:absolute;right:6px;top:2px;background:none;border:0;color:#fff;font-size:20px;cursor:pointer}
+body.desk #deskHint.off{display:none}
+body.talking #deskHint{display:none!important}
+body.desk #deskTip{display:block;position:fixed;z-index:15;pointer-events:none;background:#0b1a12ee;border:1px solid #ffe9a3aa;border-radius:10px;padding:6px 12px;font-size:15px;white-space:nowrap}
+body.desk #deskTip.hidden{display:none!important}
+body.desk #prompt{pointer-events:auto;cursor:pointer;bottom:calc(112px + env(safe-area-inset-bottom));font-size:19px;padding:10px 24px;background:#2a5a8af0;border:2px solid #cfe8ff;box-shadow:0 4px 14px #0008}
+body.desk #prompt:hover{background:#3a74aef5}
+body.desk #prompt.hidden{display:none!important}
+body.desk #bMenu,body.desk .mb{width:46px;height:46px;font-size:22px;cursor:pointer}
+body.desk .mb#bHeroes,body.desk .mb#bEmote{cursor:pointer}
+@media (min-width:1000px){
+ body.desk #hearts{font-size:32px;left:22px;top:18px}
+ body.desk #quest{max-width:380px;font-size:16px;padding:12px 18px;top:18px;right:20px}
+ body.desk #toast{font-size:21px;padding:12px 26px;top:18%}
+ body.desk #dialog{width:min(70vw,980px);bottom:calc(30px + env(safe-area-inset-bottom));padding:16px 24px;border-radius:20px}
+ body.desk #dialog .dn{font-size:20px}body.desk #dialog .dt{font-size:22px;min-height:66px}body.desk #dialog .dnext{font-size:14px}
+ body.desk #bossbar{width:min(40vw,560px);top:20px}body.desk #bossbar .bn{font-size:18px}body.desk #bossbar .bb{height:14px}
+ body.desk .mb{left:22px;top:66px}body.desk .mb#bHeroes{top:122px;left:22px}body.desk .mb#bEmote{top:178px;left:22px}
+ body.desk #abilityTag{display:none}
+ body.desk .db{font-size:16px;min-width:116px}
+ body.desk #deskHint{font-size:14px}
+}
+@media (min-width:1600px){body.desk #quest{font-size:18px;max-width:440px}body.desk #hearts{font-size:36px}body.desk #deskHint{font-size:15px;max-width:400px}}
+body.desk:not(.touch) #touch{display:none!important}
