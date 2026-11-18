@@ -1,0 +1,466 @@
+{
+ "scene": "b007-clone-overlay",
+ "label": "AI voice clone of Chris Belluzzi (Chrisler Voice Clone v1), synthetic; use authorized by Chris 2026-11-17",
+ "lines": [
+  {
+   "id": "f_ch1",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Beni! Ezra! Stay behind me. Are you both alright?",
+   "display": "Beni! Ezra! Stay behind me. Are you both alright?",
+   "src": "f_ch1.mp3",
+   "duration": 3.492,
+   "bytes": 29420,
+   "hash": "5fe97f234422",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 9
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "f_ch2",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Not today, Hoofkoff. The Light purifies. It doesn't destroy.",
+   "display": "Not today, Hoofkoff. The Light purifies. It doesn't destroy.",
+   "src": "f_ch2.mp3",
+   "duration": 4.536,
+   "bytes": 35948,
+   "hash": "9b46ba096567",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 9
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "g_ch_light",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Staff, show me the Light.",
+   "display": "Staff, show me the Light.",
+   "src": "g_ch_light.mp3",
+   "duration": 1.908,
+   "bytes": 15212,
+   "hash": "928be370c245",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 5,
+    "total_words": 5
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch1",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Alright. If something is there, you can just say it.",
+   "display": "Alright. If something is there, you can just say it.",
+   "src": "s_ch1.mp3",
+   "duration": 3.096,
+   "bytes": 28268,
+   "hash": "9abdd959c3c7",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 10,
+    "total_words": 10
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch10",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "FlowPoint.",
+   "display": "FlowPoint.",
+   "src": "s_ch10.mp3",
+   "duration": 1.008,
+   "bytes": 10988,
+   "hash": "1ae669dfc04d",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "estimated",
+    "matched_words": 0,
+    "total_words": 1
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch11",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Okay. That's new.",
+   "display": "Okay. That's new.",
+   "src": "s_ch11.mp3",
+   "duration": 1.476,
+   "bytes": 14252,
+   "hash": "f66919ec0532",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch12",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "What am I supposed to do with this?",
+   "display": "What am I supposed to do with this?",
+   "src": "s_ch12.mp3",
+   "duration": 1.764,
+   "bytes": 19436,
+   "hash": "521348b47f49",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 8
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch13",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Of course.",
+   "display": "Of course.",
+   "src": "s_ch13.mp3",
+   "duration": 1.224,
+   "bytes": 9644,
+   "hash": "0302660a4825",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch14",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Alright. Let's see where this goes.",
+   "display": "Alright. Let's see where this goes.",
+   "src": "s_ch14.mp3",
+   "duration": 2.304,
+   "bytes": 19052,
+   "hash": "c75998ef275a",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 6,
+    "total_words": 6
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch2",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "You've been watching me.",
+   "display": "You've been watching me.",
+   "src": "s_ch2.mp3",
+   "duration": 1.332,
+   "bytes": 14060,
+   "hash": "680279674893",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 4
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch3",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Between what?",
+   "display": "Between what?",
+   "src": "s_ch3.mp3",
+   "duration": 1.332,
+   "bytes": 11372,
+   "hash": "35070bd3b80c",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch4",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "That's not very clear.",
+   "display": "That's not very clear.",
+   "src": "s_ch4.mp3",
+   "duration": 1.476,
+   "bytes": 14444,
+   "hash": "98fc1069bf78",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 4
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch5",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Why me?",
+   "display": "Why me?",
+   "src": "s_ch5.mp3",
+   "duration": 0.972,
+   "bytes": 9260,
+   "hash": "0abff42b3d94",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch6",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Chosen for what?",
+   "display": "Chosen for what?",
+   "src": "s_ch6.mp3",
+   "duration": 1.116,
+   "bytes": 13100,
+   "hash": "3dbf6b14add8",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch7",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Yeah. That sounds about right.",
+   "display": "Yeah. That sounds about right.",
+   "src": "s_ch7.mp3",
+   "duration": 1.8,
+   "bytes": 17324,
+   "hash": "ae9114c340ef",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 5,
+    "total_words": 5
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch8",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Build what?",
+   "display": "Build what?",
+   "src": "s_ch8.mp3",
+   "duration": 0.972,
+   "bytes": 10220,
+   "hash": "abee76e46557",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "s_ch9",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "A place where things come together. A center.",
+   "display": "A place where things come together. A center.",
+   "src": "s_ch9.mp3",
+   "duration": 2.808,
+   "bytes": 26348,
+   "hash": "eb76add93724",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 8
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "sw_chrisler",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Alright. Let's move.",
+   "display": "Alright. Let's move.",
+   "src": "sw_chrisler.mp3",
+   "duration": 1.584,
+   "bytes": 14636,
+   "hash": "f4b6a2afa362",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "v_ch1",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Beni... Ezra. I'm coming.",
+   "display": "Beni... Ezra. I'm coming.",
+   "src": "v_ch1.mp3",
+   "duration": 2.268,
+   "bytes": 18092,
+   "hash": "3b8aa8f8acb0",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 4
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  },
+  {
+   "id": "w_ch1",
+   "character": "chrisler",
+   "voice": "chatterbox-clone-v1",
+   "rate": 1.0,
+   "text": "Alright, boys. Time to show them how it's done.",
+   "display": "Alright, boys. Time to show them how it's done.",
+   "src": "w_ch1.mp3",
+   "duration": 2.772,
+   "bytes": 26156,
+   "hash": "c759f55611f1",
+   "words": [],
+   "cues": [],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 9,
+    "total_words": 9
+   },
+   "qa": {
+    "note": "clone render; see audit"
+   },
+   "clone": true
+  }
+ ]
+}

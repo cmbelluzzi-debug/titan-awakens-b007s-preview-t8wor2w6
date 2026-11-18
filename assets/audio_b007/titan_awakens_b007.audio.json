@@ -1,0 +1,7497 @@
+{
+ "scene": "titan_awakens_b007",
+ "title": "TITAN Awakens - Build 007",
+ "base": "",
+ "lines": [
+  {
+   "id": "murka1",
+   "character": "lily",
+   "voice": "piper-alba",
+   "rate": 1.0,
+   "text": "Oh, hello! I am Lily. Can you help me, please?",
+   "display": "Oh, hello! I am Lily. Can you help me, please?",
+   "src": "murka1.mp3",
+   "duration": 4.833,
+   "bytes": 38913,
+   "hash": "9fd8be1a187c",
+   "words": [
+    {
+     "w": "Oh,",
+     "start": 0.0,
+     "end": 0.42,
+     "char": 0
+    },
+    {
+     "w": "hello!",
+     "start": 0.66,
+     "end": 0.88,
+     "char": 4
+    },
+    {
+     "w": "I",
+     "start": 1.7,
+     "end": 1.94,
+     "char": 11
+    },
+    {
+     "w": "am",
+     "start": 1.94,
+     "end": 2.08,
+     "char": 13
+    },
+    {
+     "w": "Lily.",
+     "start": 2.08,
+     "end": 2.28,
+     "char": 16
+    },
+    {
+     "w": "Can",
+     "start": 3.08,
+     "end": 3.26,
+     "char": 22
+    },
+    {
+     "w": "you",
+     "start": 3.26,
+     "end": 3.38,
+     "char": 26
+    },
+    {
+     "w": "help",
+     "start": 3.38,
+     "end": 3.54,
+     "char": 30
+    },
+    {
+     "w": "me,",
+     "start": 3.54,
+     "end": 3.7,
+     "char": 35
+    },
+    {
+     "w": "please?",
+     "start": 3.7,
+     "end": 4.06,
+     "char": 39
+    }
+   ],
+   "cues": [
+    {
+     "text": "Oh, hello!",
+     "start": 0.0,
+     "end": 0.88
+    },
+    {
+     "text": "I am Lily.",
+     "start": 1.7,
+     "end": 2.28
+    },
+    {
+     "text": "Can you help me, please?",
+     "start": 3.08,
+     "end": 4.06
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 10,
+    "total_words": 10
+   },
+   "qa": {
+    "duration_s": 4.78,
+    "rms": 0.0982,
+    "peak": 0.5651,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Oh, hello. I am Lily. Can you help me please?",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "murka2",
+   "character": "lily",
+   "voice": "piper-alba",
+   "rate": 1.0,
+   "text": "I lost my golden basket. I think I left it on the forest path, to the west, past the cottages.",
+   "display": "I lost my golden basket. I think I left it on the forest path, to the west, past the cottages.",
+   "src": "murka2.mp3",
+   "duration": 6.922,
+   "bytes": 55631,
+   "hash": "a98aa21558df",
+   "words": [
+    {
+     "w": "I",
+     "start": 0.0,
+     "end": 0.34,
+     "char": 0
+    },
+    {
+     "w": "lost",
+     "start": 0.34,
+     "end": 0.5,
+     "char": 2
+    },
+    {
+     "w": "my",
+     "start": 0.5,
+     "end": 0.72,
+     "char": 7
+    },
+    {
+     "w": "golden",
+     "start": 0.72,
+     "end": 0.9,
+     "char": 10
+    },
+    {
+     "w": "basket.",
+     "start": 0.9,
+     "end": 1.38,
+     "char": 17
+    },
+    {
+     "w": "I",
+     "start": 2.48,
+     "end": 2.56,
+     "char": 25
+    },
+    {
+     "w": "think",
+     "start": 2.56,
+     "end": 2.68,
+     "char": 27
+    },
+    {
+     "w": "I",
+     "start": 2.68,
+     "end": 2.86,
+     "char": 33
+    },
+    {
+     "w": "left",
+     "start": 2.86,
+     "end": 3.06,
+     "char": 35
+    },
+    {
+     "w": "it",
+     "start": 3.06,
+     "end": 3.26,
+     "char": 40
+    },
+    {
+     "w": "on",
+     "start": 3.26,
+     "end": 3.36,
+     "char": 43
+    },
+    {
+     "w": "the",
+     "start": 3.36,
+     "end": 3.46,
+     "char": 46
+    },
+    {
+     "w": "forest",
+     "start": 3.46,
+     "end": 3.7,
+     "char": 50
+    },
+    {
+     "w": "path,",
+     "start": 3.7,
+     "end": 4.0,
+     "char": 57
+    },
+    {
+     "w": "to",
+     "start": 4.0,
+     "end": 4.62,
+     "char": 63
+    },
+    {
+     "w": "the",
+     "start": 4.62,
+     "end": 4.72,
+     "char": 66
+    },
+    {
+     "w": "west,",
+     "start": 4.72,
+     "end": 5.02,
+     "char": 70
+    },
+    {
+     "w": "past",
+     "start": 5.36,
+     "end": 5.56,
+     "char": 76
+    },
+    {
+     "w": "the",
+     "start": 5.56,
+     "end": 5.74,
+     "char": 81
+    },
+    {
+     "w": "cottages.",
+     "start": 5.74,
+     "end": 6.22,
+     "char": 85
+    }
+   ],
+   "cues": [
+    {
+     "text": "I lost my golden basket.",
+     "start": 0.0,
+     "end": 1.38
+    },
+    {
+     "text": "I think I left it on the forest path, to the west, past the cottages.",
+     "start": 2.48,
+     "end": 6.22
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 20,
+    "total_words": 20
+   },
+   "qa": {
+    "duration_s": 6.863,
+    "rms": 0.0988,
+    "peak": 0.7601,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "I lost my golden basket. I think I left it on the forest path to the west, past the cottages.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "murka3",
+   "character": "lily",
+   "voice": "piper-alba",
+   "rate": 1.0,
+   "text": "Please bring it back to me!",
+   "display": "Please bring it back to me!",
+   "src": "murka3.mp3",
+   "duration": 1.985,
+   "bytes": 16134,
+   "hash": "d81fc81a8b16",
+   "words": [
+    {
+     "w": "Please",
+     "start": 0.0,
+     "end": 0.48,
+     "char": 0
+    },
+    {
+     "w": "bring",
+     "start": 0.48,
+     "end": 0.7,
+     "char": 7
+    },
+    {
+     "w": "it",
+     "start": 0.7,
+     "end": 0.86,
+     "char": 13
+    },
+    {
+     "w": "back",
+     "start": 0.86,
+     "end": 1.02,
+     "char": 16
+    },
+    {
+     "w": "to",
+     "start": 1.02,
+     "end": 1.26,
+     "char": 21
+    },
+    {
+     "w": "me!",
+     "start": 1.26,
+     "end": 1.42,
+     "char": 24
+    }
+   ],
+   "cues": [
+    {
+     "text": "Please bring it back to me!",
+     "start": 0.0,
+     "end": 1.42
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 6,
+    "total_words": 6
+   },
+   "qa": {
+    "duration_s": 1.911,
+    "rms": 0.0955,
+    "peak": 0.5872,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Please bring it back to me.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "murka4",
+   "character": "lily",
+   "voice": "piper-alba",
+   "rate": 1.0,
+   "text": "My basket is on the forest path, west of the village. Follow the cobblestones past the cottages.",
+   "display": "My basket is on the forest path, west of the village. Follow the cobblestones past the cottages.",
+   "src": "murka4.mp3",
+   "duration": 6.766,
+   "bytes": 54377,
+   "hash": "78dd0d38adea",
+   "words": [
+    {
+     "w": "My",
+     "start": 0.0,
+     "end": 0.38,
+     "char": 0
+    },
+    {
+     "w": "basket",
+     "start": 0.38,
+     "end": 0.74,
+     "char": 3
+    },
+    {
+     "w": "is",
+     "start": 0.74,
+     "end": 1.1,
+     "char": 10
+    },
+    {
+     "w": "on",
+     "start": 1.1,
+     "end": 1.26,
+     "char": 13
+    },
+    {
+     "w": "the",
+     "start": 1.26,
+     "end": 1.38,
+     "char": 16
+    },
+    {
+     "w": "forest",
+     "start": 1.38,
+     "end": 1.62,
+     "char": 20
+    },
+    {
+     "w": "path,",
+     "start": 1.62,
+     "end": 1.98,
+     "char": 27
+    },
+    {
+     "w": "west",
+     "start": 2.4,
+     "end": 2.64,
+     "char": 33
+    },
+    {
+     "w": "of",
+     "start": 2.64,
+     "end": 2.86,
+     "char": 38
+    },
+    {
+     "w": "the",
+     "start": 2.86,
+     "end": 2.96,
+     "char": 41
+    },
+    {
+     "w": "village.",
+     "start": 2.96,
+     "end": 3.22,
+     "char": 45
+    },
+    {
+     "w": "Follow",
+     "start": 4.1,
+     "end": 4.4,
+     "char": 54
+    },
+    {
+     "w": "the",
+     "start": 4.4,
+     "end": 4.54,
+     "char": 61
+    },
+    {
+     "w": "cobblestones",
+     "start": 4.54,
+     "end": 5.08,
+     "char": 65
+    },
+    {
+     "w": "past",
+     "start": 5.08,
+     "end": 5.38,
+     "char": 78
+    },
+    {
+     "w": "the",
+     "start": 5.38,
+     "end": 5.64,
+     "char": 83
+    },
+    {
+     "w": "cottages.",
+     "start": 5.64,
+     "end": 6.06,
+     "char": 87
+    }
+   ],
+   "cues": [
+    {
+     "text": "My basket is on the forest path, west of the village.",
+     "start": 0.0,
+     "end": 3.22
+    },
+    {
+     "text": "Follow the cobblestones past the cottages.",
+     "start": 4.1,
+     "end": 6.06
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 17,
+    "total_words": 17
+   },
+   "qa": {
+    "duration_s": 6.701,
+    "rms": 0.0987,
+    "peak": 0.7058,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "My basket is on the forest path, west of the village. Follow the cobblestones past the cottages.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "murka5",
+   "character": "lily",
+   "voice": "piper-alba",
+   "rate": 1.0,
+   "text": "My basket! Thank you so much! You are very kind.",
+   "display": "My basket! Thank you so much! You are very kind.",
+   "src": "murka5.mp3",
+   "duration": 5.355,
+   "bytes": 43092,
+   "hash": "eae5f7dafc3c",
+   "words": [
+    {
+     "w": "My",
+     "start": 0.0,
+     "end": 0.42,
+     "char": 0
+    },
+    {
+     "w": "basket!",
+     "start": 0.42,
+     "end": 0.86,
+     "char": 3
+    },
+    {
+     "w": "Thank",
+     "start": 1.76,
+     "end": 2.04,
+     "char": 11
+    },
+    {
+     "w": "you",
+     "start": 2.04,
+     "end": 2.28,
+     "char": 17
+    },
+    {
+     "w": "so",
+     "start": 2.28,
+     "end": 2.5,
+     "char": 21
+    },
+    {
+     "w": "much!",
+     "start": 2.5,
+     "end": 2.74,
+     "char": 24
+    },
+    {
+     "w": "You",
+     "start": 3.66,
+     "end": 3.88,
+     "char": 30
+    },
+    {
+     "w": "are",
+     "start": 3.88,
+     "end": 4.02,
+     "char": 34
+    },
+    {
+     "w": "very",
+     "start": 4.02,
+     "end": 4.22,
+     "char": 38
+    },
+    {
+     "w": "kind.",
+     "start": 4.22,
+     "end": 4.6,
+     "char": 43
+    }
+   ],
+   "cues": [
+    {
+     "text": "My basket!",
+     "start": 0.0,
+     "end": 0.86
+    },
+    {
+     "text": "Thank you so much!",
+     "start": 1.76,
+     "end": 2.74
+    },
+    {
+     "text": "You are very kind.",
+     "start": 3.66,
+     "end": 4.6
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 10,
+    "total_words": 10
+   },
+   "qa": {
+    "duration_s": 5.291,
+    "rms": 0.0984,
+    "peak": 0.6586,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "My basket. Thank you so much. You are very kind.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "murka6",
+   "character": "lily",
+   "voice": "piper-alba",
+   "rate": 1.0,
+   "text": "Take this star charm. It makes your star-burst stronger. Now go and see Orren at the Council Hall.",
+   "display": "Take this star charm. It makes your star-burst stronger. Now go and see Orren at the Council Hall.",
+   "src": "murka6.mp3",
+   "duration": 7.497,
+   "bytes": 60229,
+   "hash": "739381fea269",
+   "words": [
+    {
+     "w": "Take",
+     "start": 0.0,
+     "end": 0.38,
+     "char": 0
+    },
+    {
+     "w": "this",
+     "start": 0.38,
+     "end": 0.56,
+     "char": 5
+    },
+    {
+     "w": "star",
+     "start": 0.56,
+     "end": 0.8,
+     "char": 10
+    },
+    {
+     "w": "charm.",
+     "start": 0.8,
+     "end": 2.04,
+     "char": 15
+    },
+    {
+     "w": "It",
+     "start": 2.04,
+     "end": 2.18,
+     "char": 22
+    },
+    {
+     "w": "makes",
+     "start": 2.18,
+     "end": 2.36,
+     "char": 25
+    },
+    {
+     "w": "your",
+     "start": 2.36,
+     "end": 2.64,
+     "char": 31
+    },
+    {
+     "w": "star-burst",
+     "start": 2.64,
+     "end": 3.14,
+     "char": 36
+    },
+    {
+     "w": "stronger.",
+     "start": 3.14,
+     "end": 3.56,
+     "char": 47
+    },
+    {
+     "w": "Now",
+     "start": 4.48,
+     "end": 4.74,
+     "char": 57
+    },
+    {
+     "w": "go",
+     "start": 4.74,
+     "end": 5.02,
+     "char": 61
+    },
+    {
+     "w": "and",
+     "start": 5.02,
+     "end": 5.3,
+     "char": 64
+    },
+    {
+     "w": "see",
+     "start": 5.3,
+     "end": 5.52,
+     "char": 68
+    },
+    {
+     "w": "Orren",
+     "start": 5.52,
+     "end": 5.92,
+     "char": 72
+    },
+    {
+     "w": "at",
+     "start": 5.92,
+     "end": 6.1,
+     "char": 78
+    },
+    {
+     "w": "the",
+     "start": 6.1,
+     "end": 6.2,
+     "char": 81
+    },
+    {
+     "w": "Council",
+     "start": 6.2,
+     "end": 6.42,
+     "char": 85
+    },
+    {
+     "w": "Hall.",
+     "start": 6.42,
+     "end": 6.84,
+     "char": 93
+    }
+   ],
+   "cues": [
+    {
+     "text": "Take this star charm.",
+     "start": 0.0,
+     "end": 2.04
+    },
+    {
+     "text": "It makes your star-burst stronger.",
+     "start": 2.04,
+     "end": 3.56
+    },
+    {
+     "text": "Now go and see Orren at the Council Hall.",
+     "start": 4.48,
+     "end": 6.84
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 14,
+    "total_words": 18
+   },
+   "qa": {
+    "duration_s": 7.427,
+    "rms": 0.0988,
+    "peak": 0.6654,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "Take the star cham. It makes your star burst stronger. Now go and see Orin at the council hall.",
+    "word_overlap": 0.842,
+    "pass": true
+   }
+  },
+  {
+   "id": "murka1s",
+   "character": "lily",
+   "voice": "piper-alba",
+   "rate": 1.0,
+   "text": "Oh, Beni! I am so glad to see you. Could you help me, please?",
+   "display": "Oh, Beni! I am so glad to see you. Could you help me, please?",
+   "src": "murka1s.mp3",
+   "duration": 5.642,
+   "bytes": 45391,
+   "hash": "9570d7ef11ab",
+   "words": [
+    {
+     "w": "Oh,",
+     "start": 0.0,
+     "end": 0.42,
+     "char": 0
+    },
+    {
+     "w": "Beni!",
+     "start": 0.42,
+     "end": 1.62,
+     "char": 4
+    },
+    {
+     "w": "I",
+     "start": 1.62,
+     "end": 1.92,
+     "char": 10
+    },
+    {
+     "w": "am",
+     "start": 1.92,
+     "end": 2.02,
+     "char": 12
+    },
+    {
+     "w": "so",
+     "start": 2.02,
+     "end": 2.2,
+     "char": 15
+    },
+    {
+     "w": "glad",
+     "start": 2.2,
+     "end": 2.42,
+     "char": 18
+    },
+    {
+     "w": "to",
+     "start": 2.42,
+     "end": 2.66,
+     "char": 23
+    },
+    {
+     "w": "see",
+     "start": 2.66,
+     "end": 2.88,
+     "char": 26
+    },
+    {
+     "w": "you.",
+     "start": 2.88,
+     "end": 3.08,
+     "char": 30
+    },
+    {
+     "w": "Could",
+     "start": 3.78,
+     "end": 3.92,
+     "char": 35
+    },
+    {
+     "w": "you",
+     "start": 3.92,
+     "end": 4.04,
+     "char": 41
+    },
+    {
+     "w": "help",
+     "start": 4.04,
+     "end": 4.24,
+     "char": 45
+    },
+    {
+     "w": "me,",
+     "start": 4.24,
+     "end": 4.42,
+     "char": 50
+    },
+    {
+     "w": "please?",
+     "start": 4.66,
+     "end": 4.88,
+     "char": 54
+    }
+   ],
+   "cues": [
+    {
+     "text": "Oh, Beni!",
+     "start": 0.0,
+     "end": 1.62
+    },
+    {
+     "text": "I am so glad to see you.",
+     "start": 1.62,
+     "end": 3.08
+    },
+    {
+     "text": "Could you help me, please?",
+     "start": 3.78,
+     "end": 4.88
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 13,
+    "total_words": 14
+   },
+   "qa": {
+    "duration_s": 5.569,
+    "rms": 0.0985,
+    "peak": 0.6186,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "Oh, Benny. I am so glad to see you. Could you help me, please?",
+    "word_overlap": 0.929,
+    "pass": true
+   }
+  },
+  {
+   "id": "murka5s",
+   "character": "lily",
+   "voice": "piper-alba",
+   "rate": 1.0,
+   "text": "My basket! Thank you so much, Beni! You are as kind as your father.",
+   "display": "My basket! Thank you so much, Beni! You are as kind as your father.",
+   "src": "murka5s.mp3",
+   "duration": 6.06,
+   "bytes": 48735,
+   "hash": "5e862736202c",
+   "words": [
+    {
+     "w": "My",
+     "start": 0.0,
+     "end": 0.42,
+     "char": 0
+    },
+    {
+     "w": "basket!",
+     "start": 0.42,
+     "end": 0.76,
+     "char": 3
+    },
+    {
+     "w": "Thank",
+     "start": 1.86,
+     "end": 1.96,
+     "char": 11
+    },
+    {
+     "w": "you",
+     "start": 1.96,
+     "end": 2.24,
+     "char": 17
+    },
+    {
+     "w": "so",
+     "start": 2.24,
+     "end": 2.44,
+     "char": 21
+    },
+    {
+     "w": "much,",
+     "start": 2.44,
+     "end": 2.7,
+     "char": 24
+    },
+    {
+     "w": "Beni!",
+     "start": 2.7,
+     "end": 3.82,
+     "char": 30
+    },
+    {
+     "w": "You",
+     "start": 3.82,
+     "end": 4.04,
+     "char": 36
+    },
+    {
+     "w": "are",
+     "start": 4.04,
+     "end": 4.18,
+     "char": 40
+    },
+    {
+     "w": "as",
+     "start": 4.18,
+     "end": 4.3,
+     "char": 44
+    },
+    {
+     "w": "kind",
+     "start": 4.3,
+     "end": 4.5,
+     "char": 47
+    },
+    {
+     "w": "as",
+     "start": 4.5,
+     "end": 4.86,
+     "char": 52
+    },
+    {
+     "w": "your",
+     "start": 4.86,
+     "end": 5.04,
+     "char": 55
+    },
+    {
+     "w": "father.",
+     "start": 5.04,
+     "end": 5.48,
+     "char": 60
+    }
+   ],
+   "cues": [
+    {
+     "text": "My basket!",
+     "start": 0.0,
+     "end": 0.76
+    },
+    {
+     "text": "Thank you so much, Beni!",
+     "start": 1.86,
+     "end": 3.82
+    },
+    {
+     "text": "You are as kind as your father.",
+     "start": 3.82,
+     "end": 5.48
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 13,
+    "total_words": 14
+   },
+   "qa": {
+    "duration_s": 5.987,
+    "rms": 0.0986,
+    "peak": 0.7158,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "My basket. Thank you so much, Benny. You are as kind as your father.",
+    "word_overlap": 0.929,
+    "pass": true
+   }
+  },
+  {
+   "id": "rowan3",
+   "character": "rowan",
+   "voice": "kokoro-am_michael",
+   "rate": 1.0,
+   "text": "Go to the well in the village square. Lily is there. She always knows what to do.",
+   "display": "Go to the well in the village square. Lily is there. She always knows what to do.",
+   "src": "rowan3.mp3",
+   "duration": 5.232,
+   "bytes": 42092,
+   "hash": "4a8c7bcf01de",
+   "words": [
+    {
+     "w": "Go",
+     "start": 0.0,
+     "end": 0.16,
+     "char": 0
+    },
+    {
+     "w": "to",
+     "start": 0.16,
+     "end": 0.34,
+     "char": 3
+    },
+    {
+     "w": "the",
+     "start": 0.34,
+     "end": 0.42,
+     "char": 6
+    },
+    {
+     "w": "well",
+     "start": 0.42,
+     "end": 0.64,
+     "char": 10
+    },
+    {
+     "w": "in",
+     "start": 0.64,
+     "end": 0.86,
+     "char": 15
+    },
+    {
+     "w": "the",
+     "start": 0.86,
+     "end": 0.96,
+     "char": 18
+    },
+    {
+     "w": "village",
+     "start": 0.96,
+     "end": 1.2,
+     "char": 22
+    },
+    {
+     "w": "square.",
+     "start": 1.2,
+     "end": 1.52,
+     "char": 30
+    },
+    {
+     "w": "Lily",
+     "start": 2.24,
+     "end": 2.32,
+     "char": 38
+    },
+    {
+     "w": "is",
+     "start": 2.32,
+     "end": 2.62,
+     "char": 43
+    },
+    {
+     "w": "there.",
+     "start": 2.62,
+     "end": 2.92,
+     "char": 46
+    },
+    {
+     "w": "She",
+     "start": 3.28,
+     "end": 3.44,
+     "char": 53
+    },
+    {
+     "w": "always",
+     "start": 3.44,
+     "end": 3.76,
+     "char": 57
+    },
+    {
+     "w": "knows",
+     "start": 3.76,
+     "end": 4.08,
+     "char": 64
+    },
+    {
+     "w": "what",
+     "start": 4.08,
+     "end": 4.38,
+     "char": 70
+    },
+    {
+     "w": "to",
+     "start": 4.38,
+     "end": 4.54,
+     "char": 75
+    },
+    {
+     "w": "do.",
+     "start": 4.54,
+     "end": 4.78,
+     "char": 78
+    }
+   ],
+   "cues": [
+    {
+     "text": "Go to the well in the village square.",
+     "start": 0.0,
+     "end": 1.52
+    },
+    {
+     "text": "Lily is there.",
+     "start": 2.24,
+     "end": 2.92
+    },
+    {
+     "text": "She always knows what to do.",
+     "start": 3.28,
+     "end": 4.78
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 17,
+    "total_words": 17
+   },
+   "qa": {
+    "duration_s": 5.162,
+    "rms": 0.0983,
+    "peak": 0.7985,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "Go to the well in the village square. Lily is there, she always knows what to do.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "titan2",
+   "character": "titan",
+   "voice": "kokoro-am_onyx",
+   "rate": 0.9,
+   "text": "The shadows are too strong. Help Lily and Orren first. Then come back to me.",
+   "display": "The shadows are too strong. Help Lily and Orren first. Then come back to me.",
+   "src": "titan2.mp3",
+   "duration": 5.016,
+   "bytes": 40364,
+   "hash": "d72f07cc7e98",
+   "words": [
+    {
+     "w": "The",
+     "start": 0.0,
+     "end": 0.16,
+     "char": 0
+    },
+    {
+     "w": "shadows",
+     "start": 0.16,
+     "end": 0.38,
+     "char": 4
+    },
+    {
+     "w": "are",
+     "start": 0.38,
+     "end": 0.66,
+     "char": 12
+    },
+    {
+     "w": "too",
+     "start": 0.66,
+     "end": 0.86,
+     "char": 16
+    },
+    {
+     "w": "strong.",
+     "start": 0.86,
+     "end": 1.28,
+     "char": 20
+    },
+    {
+     "w": "Help",
+     "start": 1.56,
+     "end": 1.68,
+     "char": 28
+    },
+    {
+     "w": "Lily",
+     "start": 1.68,
+     "end": 1.927,
+     "char": 33
+    },
+    {
+     "w": "and",
+     "start": 1.927,
+     "end": 2.112,
+     "char": 38
+    },
+    {
+     "w": "Orren",
+     "start": 2.112,
+     "end": 2.42,
+     "char": 42
+    },
+    {
+     "w": "first.",
+     "start": 2.42,
+     "end": 2.72,
+     "char": 48
+    },
+    {
+     "w": "Then",
+     "start": 3.14,
+     "end": 3.22,
+     "char": 55
+    },
+    {
+     "w": "come",
+     "start": 3.22,
+     "end": 3.42,
+     "char": 60
+    },
+    {
+     "w": "back",
+     "start": 3.42,
+     "end": 3.66,
+     "char": 65
+    },
+    {
+     "w": "to",
+     "start": 3.66,
+     "end": 3.86,
+     "char": 70
+    },
+    {
+     "w": "me.",
+     "start": 3.86,
+     "end": 4.02,
+     "char": 73
+    }
+   ],
+   "cues": [
+    {
+     "text": "The shadows are too strong.",
+     "start": 0.0,
+     "end": 1.28
+    },
+    {
+     "text": "Help Lily and Orren first.",
+     "start": 1.56,
+     "end": 2.72
+    },
+    {
+     "text": "Then come back to me.",
+     "start": 3.14,
+     "end": 4.02
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 12,
+    "total_words": 15
+   },
+   "qa": {
+    "duration_s": 4.949,
+    "rms": 0.0767,
+    "peak": 0.89,
+    "rms_dbfs": -22.3,
+    "silent": false,
+    "transcript": "The shadows are too strong, help Lillian Orrin first, then come back to me.",
+    "word_overlap": 0.8,
+    "pass": true
+   },
+   "fx": "robotic (same ffmpeg chain as Build 004)"
+  },
+  {
+   "id": "n_basket",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "You found Lily's golden basket!",
+   "display": "You found Lily's golden basket!",
+   "src": "n_basket.mp3",
+   "duration": 2.232,
+   "bytes": 18092,
+   "hash": "ade73529c84a",
+   "words": [
+    {
+     "w": "You",
+     "start": 0.0,
+     "end": 0.16,
+     "char": 0
+    },
+    {
+     "w": "found",
+     "start": 0.16,
+     "end": 0.4,
+     "char": 4
+    },
+    {
+     "w": "Lily's",
+     "start": 0.4,
+     "end": 0.86,
+     "char": 10
+    },
+    {
+     "w": "golden",
+     "start": 0.86,
+     "end": 1.18,
+     "char": 17
+    },
+    {
+     "w": "basket!",
+     "start": 1.18,
+     "end": 1.52,
+     "char": 24
+    }
+   ],
+   "cues": [
+    {
+     "text": "You found Lily's golden basket!",
+     "start": 0.0,
+     "end": 1.52
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 5,
+    "total_words": 5
+   },
+   "qa": {
+    "duration_s": 2.175,
+    "rms": 0.096,
+    "peak": 0.5704,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "You found Lily's golden basket.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "m_n1",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "At the castle gateway, a woman named Mirka paced back and forth. A black, smoky shadow clung to her like a cloak.",
+   "display": "At the castle gateway, a woman named Mirka paced back and forth. A black, smoky shadow clung to her like a cloak.",
+   "src": "m_n1.mp3",
+   "duration": 6.768,
+   "bytes": 54380,
+   "hash": "a511a5f7b702",
+   "words": [
+    {
+     "w": "At",
+     "start": 0.0,
+     "end": 0.14,
+     "char": 0
+    },
+    {
+     "w": "the",
+     "start": 0.14,
+     "end": 0.22,
+     "char": 3
+    },
+    {
+     "w": "castle",
+     "start": 0.22,
+     "end": 0.44,
+     "char": 7
+    },
+    {
+     "w": "gateway,",
+     "start": 0.44,
+     "end": 0.72,
+     "char": 14
+    },
+    {
+     "w": "a",
+     "start": 1.28,
+     "end": 1.42,
+     "char": 23
+    },
+    {
+     "w": "woman",
+     "start": 1.42,
+     "end": 1.6,
+     "char": 25
+    },
+    {
+     "w": "named",
+     "start": 1.6,
+     "end": 1.86,
+     "char": 31
+    },
+    {
+     "w": "Mirka",
+     "start": 1.86,
+     "end": 2.28,
+     "char": 37
+    },
+    {
+     "w": "paced",
+     "start": 2.28,
+     "end": 2.54,
+     "char": 43
+    },
+    {
+     "w": "back",
+     "start": 2.54,
+     "end": 2.88,
+     "char": 49
+    },
+    {
+     "w": "and",
+     "start": 2.88,
+     "end": 3.04,
+     "char": 54
+    },
+    {
+     "w": "forth.",
+     "start": 3.04,
+     "end": 3.32,
+     "char": 58
+    },
+    {
+     "w": "A",
+     "start": 3.92,
+     "end": 4.12,
+     "char": 65
+    },
+    {
+     "w": "black,",
+     "start": 4.12,
+     "end": 4.3,
+     "char": 67
+    },
+    {
+     "w": "smoky",
+     "start": 4.3,
+     "end": 4.82,
+     "char": 74
+    },
+    {
+     "w": "shadow",
+     "start": 4.82,
+     "end": 5.06,
+     "char": 80
+    },
+    {
+     "w": "clung",
+     "start": 5.06,
+     "end": 5.48,
+     "char": 87
+    },
+    {
+     "w": "to",
+     "start": 5.48,
+     "end": 5.62,
+     "char": 93
+    },
+    {
+     "w": "her",
+     "start": 5.62,
+     "end": 5.76,
+     "char": 96
+    },
+    {
+     "w": "like",
+     "start": 5.76,
+     "end": 5.92,
+     "char": 100
+    },
+    {
+     "w": "a",
+     "start": 5.92,
+     "end": 6.06,
+     "char": 105
+    },
+    {
+     "w": "cloak.",
+     "start": 6.06,
+     "end": 6.22,
+     "char": 107
+    }
+   ],
+   "cues": [
+    {
+     "text": "At the castle gateway, a woman named Mirka paced back and forth.",
+     "start": 0.0,
+     "end": 3.32
+    },
+    {
+     "text": "A black, smoky shadow clung to her like a cloak.",
+     "start": 3.92,
+     "end": 6.22
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 20,
+    "total_words": 22
+   },
+   "qa": {
+    "duration_s": 6.698,
+    "rms": 0.0987,
+    "peak": 0.7768,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "At the Castle Gateway, a woman named Merka paced back and forth. A black smokey shadow clung to her like a cloak.",
+    "word_overlap": 0.909,
+    "pass": true
+   }
+  },
+  {
+   "id": "m_mirka1",
+   "character": "mirka",
+   "voice": "kokoro-af_heart",
+   "rate": 1.0,
+   "text": "You will not pass!",
+   "display": "You will not pass!",
+   "src": "m_mirka1.mp3",
+   "duration": 1.32,
+   "bytes": 10796,
+   "hash": "6fc78057592f",
+   "words": [
+    {
+     "w": "You",
+     "start": 0.0,
+     "end": 0.2,
+     "char": 0
+    },
+    {
+     "w": "will",
+     "start": 0.2,
+     "end": 0.28,
+     "char": 4
+    },
+    {
+     "w": "not",
+     "start": 0.28,
+     "end": 0.44,
+     "char": 9
+    },
+    {
+     "w": "pass!",
+     "start": 0.44,
+     "end": 0.7,
+     "char": 13
+    }
+   ],
+   "cues": [
+    {
+     "text": "You will not pass!",
+     "start": 0.0,
+     "end": 0.7
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 4
+   },
+   "qa": {
+    "duration_s": 1.258,
+    "rms": 0.093,
+    "peak": 0.4875,
+    "rms_dbfs": -20.6,
+    "silent": false,
+    "transcript": "You will not pass.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "m_beni1",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "Oh, the darkness!",
+   "display": "Oh, the darkness!",
+   "src": "m_beni1.mp3",
+   "duration": 2.232,
+   "bytes": 18092,
+   "hash": "01256a6fb4c5",
+   "words": [
+    {
+     "w": "Oh,",
+     "start": 0.0,
+     "end": 1.08,
+     "char": 0
+    },
+    {
+     "w": "the",
+     "start": 1.1,
+     "end": 1.22,
+     "char": 4
+    },
+    {
+     "w": "darkness!",
+     "start": 1.22,
+     "end": 1.56,
+     "char": 8
+    }
+   ],
+   "cues": [
+    {
+     "text": "Oh, the darkness!",
+     "start": 0.0,
+     "end": 1.56
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 2.17,
+    "rms": 0.096,
+    "peak": 0.7836,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Oh, the darkness!",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "m_titan1",
+   "character": "titan",
+   "voice": "kokoro-am_onyx",
+   "rate": 0.9,
+   "text": "Shadow detected. Purify Light is now unlocked. Aim at the smoke, Builder.",
+   "display": "Shadow detected. Purify Light is now unlocked. Aim at the smoke, Builder.",
+   "src": "m_titan1.mp3",
+   "duration": 5.496,
+   "bytes": 44204,
+   "hash": "20e35e8ced38",
+   "words": [
+    {
+     "w": "Shadow",
+     "start": 0.0,
+     "end": 0.32,
+     "char": 0
+    },
+    {
+     "w": "detected.",
+     "start": 0.32,
+     "end": 0.82,
+     "char": 7
+    },
+    {
+     "w": "Purify",
+     "start": 1.2,
+     "end": 1.5,
+     "char": 17
+    },
+    {
+     "w": "Light",
+     "start": 1.5,
+     "end": 1.86,
+     "char": 24
+    },
+    {
+     "w": "is",
+     "start": 1.86,
+     "end": 2.1,
+     "char": 30
+    },
+    {
+     "w": "now",
+     "start": 2.1,
+     "end": 2.3,
+     "char": 33
+    },
+    {
+     "w": "unlocked.",
+     "start": 2.3,
+     "end": 2.64,
+     "char": 37
+    },
+    {
+     "w": "Aim",
+     "start": 3.24,
+     "end": 3.32,
+     "char": 47
+    },
+    {
+     "w": "at",
+     "start": 3.32,
+     "end": 3.48,
+     "char": 51
+    },
+    {
+     "w": "the",
+     "start": 3.48,
+     "end": 3.58,
+     "char": 54
+    },
+    {
+     "w": "smoke,",
+     "start": 3.58,
+     "end": 3.82,
+     "char": 58
+    },
+    {
+     "w": "Builder.",
+     "start": 3.82,
+     "end": 4.3,
+     "char": 65
+    }
+   ],
+   "cues": [
+    {
+     "text": "Shadow detected.",
+     "start": 0.0,
+     "end": 0.82
+    },
+    {
+     "text": "Purify Light is now unlocked.",
+     "start": 1.2,
+     "end": 2.64
+    },
+    {
+     "text": "Aim at the smoke, Builder.",
+     "start": 3.24,
+     "end": 4.3
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 12,
+    "total_words": 12
+   },
+   "qa": {
+    "duration_s": 5.418,
+    "rms": 0.0855,
+    "peak": 0.89,
+    "rms_dbfs": -21.4,
+    "silent": false,
+    "transcript": "Shadow detected, purify light is now unlocked. Aim at the smoke builder.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "robotic (same ffmpeg chain as Build 004)"
+  },
+  {
+   "id": "m_beni2",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "TITAN, help me clear it!",
+   "display": "TITAN, help me clear it!",
+   "src": "m_beni2.mp3",
+   "duration": 2.4,
+   "bytes": 19436,
+   "hash": "17dba7a30b34",
+   "words": [
+    {
+     "w": "TITAN,",
+     "start": 0.0,
+     "end": 0.6,
+     "char": 0
+    },
+    {
+     "w": "help",
+     "start": 1.02,
+     "end": 1.18,
+     "char": 7
+    },
+    {
+     "w": "me",
+     "start": 1.18,
+     "end": 1.36,
+     "char": 12
+    },
+    {
+     "w": "clear",
+     "start": 1.36,
+     "end": 1.6,
+     "char": 15
+    },
+    {
+     "w": "it!",
+     "start": 1.6,
+     "end": 1.86,
+     "char": 21
+    }
+   ],
+   "cues": [
+    {
+     "text": "TITAN, help me clear it!",
+     "start": 0.0,
+     "end": 1.86
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 5,
+    "total_words": 5
+   },
+   "qa": {
+    "duration_s": 2.33,
+    "rms": 0.0963,
+    "peak": 0.8575,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "Titan, help me clear it.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "m_beni3",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "It's working! Keep going!",
+   "display": "It's working! Keep going!",
+   "src": "m_beni3.mp3",
+   "duration": 1.824,
+   "bytes": 14828,
+   "hash": "228279bfb05b",
+   "words": [
+    {
+     "w": "It's",
+     "start": 0.0,
+     "end": 0.28,
+     "char": 0
+    },
+    {
+     "w": "working!",
+     "start": 0.28,
+     "end": 0.6,
+     "char": 5
+    },
+    {
+     "w": "Keep",
+     "start": 0.88,
+     "end": 0.98,
+     "char": 14
+    },
+    {
+     "w": "going!",
+     "start": 0.98,
+     "end": 1.34,
+     "char": 19
+    }
+   ],
+   "cues": [
+    {
+     "text": "It's working!",
+     "start": 0.0,
+     "end": 0.6
+    },
+    {
+     "text": "Keep going!",
+     "start": 0.88,
+     "end": 1.34
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 4
+   },
+   "qa": {
+    "duration_s": 1.77,
+    "rms": 0.0951,
+    "peak": 0.6969,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "It's working, keep going.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "m_titan2",
+   "character": "titan",
+   "voice": "kokoro-am_onyx",
+   "rate": 0.9,
+   "text": "Shadow density reduced. Keep your distance and keep moving.",
+   "display": "Shadow density reduced. Keep your distance and keep moving.",
+   "src": "m_titan2.mp3",
+   "duration": 4.512,
+   "bytes": 36332,
+   "hash": "f68f69d9ce65",
+   "words": [
+    {
+     "w": "Shadow",
+     "start": 0.0,
+     "end": 0.38,
+     "char": 0
+    },
+    {
+     "w": "density",
+     "start": 0.38,
+     "end": 0.86,
+     "char": 7
+    },
+    {
+     "w": "reduced.",
+     "start": 0.86,
+     "end": 1.22,
+     "char": 15
+    },
+    {
+     "w": "Keep",
+     "start": 1.92,
+     "end": 1.94,
+     "char": 24
+    },
+    {
+     "w": "your",
+     "start": 1.94,
+     "end": 2.1,
+     "char": 29
+    },
+    {
+     "w": "distance",
+     "start": 2.1,
+     "end": 2.46,
+     "char": 34
+    },
+    {
+     "w": "and",
+     "start": 2.46,
+     "end": 2.82,
+     "char": 43
+    },
+    {
+     "w": "keep",
+     "start": 2.82,
+     "end": 3.0,
+     "char": 47
+    },
+    {
+     "w": "moving.",
+     "start": 3.0,
+     "end": 3.42,
+     "char": 52
+    }
+   ],
+   "cues": [
+    {
+     "text": "Shadow density reduced.",
+     "start": 0.0,
+     "end": 1.22
+    },
+    {
+     "text": "Keep your distance and keep moving.",
+     "start": 1.92,
+     "end": 3.42
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 9,
+    "total_words": 9
+   },
+   "qa": {
+    "duration_s": 4.437,
+    "rms": 0.0734,
+    "peak": 0.89,
+    "rms_dbfs": -22.7,
+    "silent": false,
+    "transcript": "Shadow density reduced. Keep your distance and keep moving.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "robotic (same ffmpeg chain as Build 004)"
+  },
+  {
+   "id": "m_mirka2",
+   "character": "mirka",
+   "voice": "kokoro-af_heart",
+   "rate": 1.0,
+   "text": "Thank you. I could not control it.",
+   "display": "Thank you. I couldn't control it.",
+   "src": "m_mirka2.mp3",
+   "duration": 2.064,
+   "bytes": 16748,
+   "hash": "64ff5fb43361",
+   "words": [
+    {
+     "w": "Thank",
+     "start": 0.0,
+     "end": 0.28,
+     "char": 0
+    },
+    {
+     "w": "you.",
+     "start": 0.28,
+     "end": 0.5,
+     "char": 6
+    },
+    {
+     "w": "I",
+     "start": 0.74,
+     "end": 0.8,
+     "char": 11
+    },
+    {
+     "w": "couldn't",
+     "start": 0.8,
+     "end": 1.06,
+     "char": 13
+    },
+    {
+     "w": "control",
+     "start": 1.06,
+     "end": 1.36,
+     "char": 22
+    },
+    {
+     "w": "it.",
+     "start": 1.36,
+     "end": 1.7,
+     "char": 30
+    }
+   ],
+   "cues": [
+    {
+     "text": "Thank you.",
+     "start": 0.0,
+     "end": 0.5
+    },
+    {
+     "text": "I couldn't control it.",
+     "start": 0.74,
+     "end": 1.7
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 6,
+    "total_words": 6
+   },
+   "qa": {
+    "duration_s": 2.005,
+    "rms": 0.0957,
+    "peak": 0.7166,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Thank you, I couldn't control it.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "m_beni4",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "You're safe now.",
+   "display": "You're safe now.",
+   "src": "m_beni4.mp3",
+   "duration": 1.44,
+   "bytes": 11756,
+   "hash": "ecdf09e44930",
+   "words": [
+    {
+     "w": "You're",
+     "start": 0.0,
+     "end": 0.3,
+     "char": 0
+    },
+    {
+     "w": "safe",
+     "start": 0.3,
+     "end": 0.52,
+     "char": 7
+    },
+    {
+     "w": "now.",
+     "start": 0.52,
+     "end": 0.88,
+     "char": 12
+    }
+   ],
+   "cues": [
+    {
+     "text": "You're safe now.",
+     "start": 0.0,
+     "end": 0.88
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 1.37,
+    "rms": 0.0936,
+    "peak": 0.5413,
+    "rms_dbfs": -20.6,
+    "silent": false,
+    "transcript": "You're safe now.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "m_mirka3",
+   "character": "mirka",
+   "voice": "kokoro-af_heart",
+   "rate": 1.0,
+   "text": "I can open the castle gateway for you.",
+   "display": "I can open the castle gateway for you.",
+   "src": "m_mirka3.mp3",
+   "duration": 2.232,
+   "bytes": 18092,
+   "hash": "7f0c3a8560e2",
+   "words": [
+    {
+     "w": "I",
+     "start": 0.0,
+     "end": 0.18,
+     "char": 0
+    },
+    {
+     "w": "can",
+     "start": 0.18,
+     "end": 0.3,
+     "char": 2
+    },
+    {
+     "w": "open",
+     "start": 0.3,
+     "end": 0.52,
+     "char": 6
+    },
+    {
+     "w": "the",
+     "start": 0.52,
+     "end": 0.74,
+     "char": 11
+    },
+    {
+     "w": "castle",
+     "start": 0.74,
+     "end": 0.94,
+     "char": 15
+    },
+    {
+     "w": "gateway",
+     "start": 0.94,
+     "end": 1.26,
+     "char": 22
+    },
+    {
+     "w": "for",
+     "start": 1.26,
+     "end": 1.62,
+     "char": 30
+    },
+    {
+     "w": "you.",
+     "start": 1.62,
+     "end": 1.8,
+     "char": 34
+    }
+   ],
+   "cues": [
+    {
+     "text": "I can open the castle gateway for you.",
+     "start": 0.0,
+     "end": 1.8
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 8
+   },
+   "qa": {
+    "duration_s": 2.175,
+    "rms": 0.096,
+    "peak": 0.8198,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "I can open the Castle Gateway for you.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "m_n2",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "Mirka turned the old gate wheel, and the great castle gate began to open.",
+   "display": "Mirka turned the old gate wheel, and the great castle gate began to open.",
+   "src": "m_n2.mp3",
+   "duration": 4.392,
+   "bytes": 35372,
+   "hash": "af6b47618b4a",
+   "words": [
+    {
+     "w": "Mirka",
+     "start": 0.05,
+     "end": 0.38,
+     "char": 0
+    },
+    {
+     "w": "turned",
+     "start": 0.38,
+     "end": 0.58,
+     "char": 6
+    },
+    {
+     "w": "the",
+     "start": 0.58,
+     "end": 0.8,
+     "char": 13
+    },
+    {
+     "w": "old",
+     "start": 0.8,
+     "end": 0.94,
+     "char": 17
+    },
+    {
+     "w": "gate",
+     "start": 0.94,
+     "end": 1.18,
+     "char": 21
+    },
+    {
+     "w": "wheel,",
+     "start": 1.18,
+     "end": 1.52,
+     "char": 26
+    },
+    {
+     "w": "and",
+     "start": 1.52,
+     "end": 2.14,
+     "char": 33
+    },
+    {
+     "w": "the",
+     "start": 2.14,
+     "end": 2.24,
+     "char": 37
+    },
+    {
+     "w": "great",
+     "start": 2.24,
+     "end": 2.42,
+     "char": 41
+    },
+    {
+     "w": "castle",
+     "start": 2.42,
+     "end": 2.82,
+     "char": 47
+    },
+    {
+     "w": "gate",
+     "start": 2.82,
+     "end": 3.08,
+     "char": 54
+    },
+    {
+     "w": "began",
+     "start": 3.08,
+     "end": 3.46,
+     "char": 59
+    },
+    {
+     "w": "to",
+     "start": 3.46,
+     "end": 3.66,
+     "char": 65
+    },
+    {
+     "w": "open.",
+     "start": 3.66,
+     "end": 3.96,
+     "char": 68
+    }
+   ],
+   "cues": [
+    {
+     "text": "Mirka turned the old gate wheel, and the great castle gate began to open.",
+     "start": 0.05,
+     "end": 3.96
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 13,
+    "total_words": 14
+   },
+   "qa": {
+    "duration_s": 4.33,
+    "rms": 0.098,
+    "peak": 0.6609,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Merka turned the old gate wheel and the great castle gate began to open.",
+    "word_overlap": 0.929,
+    "pass": true
+   }
+  },
+  {
+   "id": "e_bond1",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "Wolfie, I can feel you. It's like your heart is right next to mine.",
+   "display": "Wolfie, I can feel you. It's like your heart is right next to mine.",
+   "src": "e_bond1.mp3",
+   "duration": 4.152,
+   "bytes": 33452,
+   "hash": "47d25d717abd",
+   "words": [
+    {
+     "w": "Wolfie,",
+     "start": 0.0,
+     "end": 0.64,
+     "char": 0
+    },
+    {
+     "w": "I",
+     "start": 0.66,
+     "end": 0.76,
+     "char": 8
+    },
+    {
+     "w": "can",
+     "start": 0.76,
+     "end": 0.9,
+     "char": 10
+    },
+    {
+     "w": "feel",
+     "start": 0.9,
+     "end": 1.12,
+     "char": 14
+    },
+    {
+     "w": "you.",
+     "start": 1.12,
+     "end": 1.4,
+     "char": 19
+    },
+    {
+     "w": "It's",
+     "start": 2.02,
+     "end": 2.12,
+     "char": 24
+    },
+    {
+     "w": "like",
+     "start": 2.12,
+     "end": 2.22,
+     "char": 29
+    },
+    {
+     "w": "your",
+     "start": 2.22,
+     "end": 2.38,
+     "char": 34
+    },
+    {
+     "w": "heart",
+     "start": 2.38,
+     "end": 2.58,
+     "char": 39
+    },
+    {
+     "w": "is",
+     "start": 2.58,
+     "end": 2.7,
+     "char": 45
+    },
+    {
+     "w": "right",
+     "start": 2.7,
+     "end": 2.9,
+     "char": 48
+    },
+    {
+     "w": "next",
+     "start": 2.9,
+     "end": 3.16,
+     "char": 54
+    },
+    {
+     "w": "to",
+     "start": 3.16,
+     "end": 3.34,
+     "char": 59
+    },
+    {
+     "w": "mine.",
+     "start": 3.34,
+     "end": 3.54,
+     "char": 62
+    }
+   ],
+   "cues": [
+    {
+     "text": "Wolfie, I can feel you.",
+     "start": 0.0,
+     "end": 1.4
+    },
+    {
+     "text": "It's like your heart is right next to mine.",
+     "start": 2.02,
+     "end": 3.54
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 14,
+    "total_words": 14
+   },
+   "qa": {
+    "duration_s": 4.09,
+    "rms": 0.0979,
+    "peak": 0.6777,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Wolfie, I can feel you. It's like your heart is right next to mine.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "e_bond2",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "Ezra had not tamed Wolfie. He had listened, and Wolfie had answered. A bond like that can carry the Light.",
+   "display": "Ezra had not tamed Wolfie. He had listened, and Wolfie had answered. A bond like that can carry the Light.",
+   "src": "e_bond2.mp3",
+   "duration": 6.024,
+   "bytes": 48428,
+   "hash": "4bfc77de92e0",
+   "words": [
+    {
+     "w": "Ezra",
+     "start": 0.0,
+     "end": 0.28,
+     "char": 0
+    },
+    {
+     "w": "had",
+     "start": 0.28,
+     "end": 0.5,
+     "char": 5
+    },
+    {
+     "w": "not",
+     "start": 0.5,
+     "end": 0.64,
+     "char": 9
+    },
+    {
+     "w": "tamed",
+     "start": 0.64,
+     "end": 1.0,
+     "char": 13
+    },
+    {
+     "w": "Wolfie.",
+     "start": 1.0,
+     "end": 1.44,
+     "char": 19
+    },
+    {
+     "w": "He",
+     "start": 2.02,
+     "end": 2.06,
+     "char": 27
+    },
+    {
+     "w": "had",
+     "start": 2.06,
+     "end": 2.16,
+     "char": 30
+    },
+    {
+     "w": "listened,",
+     "start": 2.16,
+     "end": 2.38,
+     "char": 34
+    },
+    {
+     "w": "and",
+     "start": 2.38,
+     "end": 2.68,
+     "char": 44
+    },
+    {
+     "w": "Wolfie",
+     "start": 2.68,
+     "end": 3.06,
+     "char": 48
+    },
+    {
+     "w": "had",
+     "start": 3.06,
+     "end": 3.16,
+     "char": 55
+    },
+    {
+     "w": "answered.",
+     "start": 3.16,
+     "end": 3.42,
+     "char": 59
+    },
+    {
+     "w": "A",
+     "start": 4.0,
+     "end": 4.08,
+     "char": 69
+    },
+    {
+     "w": "bond",
+     "start": 4.08,
+     "end": 4.26,
+     "char": 71
+    },
+    {
+     "w": "like",
+     "start": 4.26,
+     "end": 4.5,
+     "char": 76
+    },
+    {
+     "w": "that",
+     "start": 4.5,
+     "end": 4.68,
+     "char": 81
+    },
+    {
+     "w": "can",
+     "start": 4.68,
+     "end": 4.86,
+     "char": 86
+    },
+    {
+     "w": "carry",
+     "start": 4.86,
+     "end": 5.12,
+     "char": 90
+    },
+    {
+     "w": "the",
+     "start": 5.12,
+     "end": 5.28,
+     "char": 96
+    },
+    {
+     "w": "Light.",
+     "start": 5.28,
+     "end": 5.5,
+     "char": 100
+    }
+   ],
+   "cues": [
+    {
+     "text": "Ezra had not tamed Wolfie.",
+     "start": 0.0,
+     "end": 1.44
+    },
+    {
+     "text": "He had listened, and Wolfie had answered.",
+     "start": 2.02,
+     "end": 3.42
+    },
+    {
+     "text": "A bond like that can carry the Light.",
+     "start": 4.0,
+     "end": 5.5
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 20,
+    "total_words": 20
+   },
+   "qa": {
+    "duration_s": 5.973,
+    "rms": 0.0986,
+    "peak": 0.8119,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "Ezra had not tamed Wolfie. He had listened and Wolfie had answered, a bond like that can carry the light.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "e_bond3",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "Wolfie, can you help me clear the dark smoke? Light, together!",
+   "display": "Wolfie, can you help me clear the dark smoke? Light, together!",
+   "src": "e_bond3.mp3",
+   "duration": 4.872,
+   "bytes": 39212,
+   "hash": "8c807d5e16ff",
+   "words": [
+    {
+     "w": "Wolfie,",
+     "start": 0.0,
+     "end": 0.62,
+     "char": 0
+    },
+    {
+     "w": "can",
+     "start": 1.0,
+     "end": 1.24,
+     "char": 8
+    },
+    {
+     "w": "you",
+     "start": 1.24,
+     "end": 1.36,
+     "char": 12
+    },
+    {
+     "w": "help",
+     "start": 1.36,
+     "end": 1.58,
+     "char": 16
+    },
+    {
+     "w": "me",
+     "start": 1.58,
+     "end": 1.72,
+     "char": 21
+    },
+    {
+     "w": "clear",
+     "start": 1.72,
+     "end": 1.92,
+     "char": 24
+    },
+    {
+     "w": "the",
+     "start": 1.92,
+     "end": 2.16,
+     "char": 30
+    },
+    {
+     "w": "dark",
+     "start": 2.16,
+     "end": 2.34,
+     "char": 34
+    },
+    {
+     "w": "smoke?",
+     "start": 2.34,
+     "end": 2.64,
+     "char": 39
+    },
+    {
+     "w": "Light,",
+     "start": 3.3,
+     "end": 3.42,
+     "char": 46
+    },
+    {
+     "w": "together!",
+     "start": 3.42,
+     "end": 4.06,
+     "char": 53
+    }
+   ],
+   "cues": [
+    {
+     "text": "Wolfie, can you help me clear the dark smoke?",
+     "start": 0.0,
+     "end": 2.64
+    },
+    {
+     "text": "Light, together!",
+     "start": 3.3,
+     "end": 4.06
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 11,
+    "total_words": 11
+   },
+   "qa": {
+    "duration_s": 4.81,
+    "rms": 0.0982,
+    "peak": 0.7553,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Wolfie, can you help me clear the dark smoke? Light together!",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "r_ezra1",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "Beni? What's wrong?",
+   "display": "Beni? What's wrong?",
+   "src": "r_ezra1.mp3",
+   "duration": 2.16,
+   "bytes": 17516,
+   "hash": "85ae873db6d5",
+   "words": [
+    {
+     "w": "Beni?",
+     "start": 0.05,
+     "end": 0.86,
+     "char": 0
+    },
+    {
+     "w": "What's",
+     "start": 0.86,
+     "end": 1.24,
+     "char": 6
+    },
+    {
+     "w": "wrong?",
+     "start": 1.24,
+     "end": 1.42,
+     "char": 13
+    }
+   ],
+   "cues": [
+    {
+     "text": "Beni?",
+     "start": 0.05,
+     "end": 0.86
+    },
+    {
+     "text": "What's wrong?",
+     "start": 0.86,
+     "end": 1.42
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 2.09,
+    "rms": 0.0958,
+    "peak": 0.623,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Benny, what's wrong?",
+    "word_overlap": 0.667,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "r_beni1",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "I don't know. I feel something. Dad...",
+   "display": "I don't know. I feel something. Dad...",
+   "src": "r_beni1.mp3",
+   "duration": 2.712,
+   "bytes": 21932,
+   "hash": "39dd4365a813",
+   "words": [
+    {
+     "w": "I",
+     "start": 0.0,
+     "end": 0.3,
+     "char": 0
+    },
+    {
+     "w": "don't",
+     "start": 0.3,
+     "end": 0.46,
+     "char": 2
+    },
+    {
+     "w": "know.",
+     "start": 0.46,
+     "end": 0.66,
+     "char": 8
+    },
+    {
+     "w": "I",
+     "start": 1.08,
+     "end": 1.22,
+     "char": 14
+    },
+    {
+     "w": "feel",
+     "start": 1.22,
+     "end": 1.42,
+     "char": 16
+    },
+    {
+     "w": "something.",
+     "start": 1.42,
+     "end": 1.74,
+     "char": 21
+    },
+    {
+     "w": "Dad...",
+     "start": 2.12,
+     "end": 2.28,
+     "char": 32
+    }
+   ],
+   "cues": [
+    {
+     "text": "I don't know.",
+     "start": 0.0,
+     "end": 0.66
+    },
+    {
+     "text": "I feel something.",
+     "start": 1.08,
+     "end": 1.74
+    },
+    {
+     "text": "Dad...",
+     "start": 2.12,
+     "end": 2.28
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 7,
+    "total_words": 7
+   },
+   "qa": {
+    "duration_s": 2.65,
+    "rms": 0.0967,
+    "peak": 0.6079,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "I don't know. I feel something, Dad.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "r_ezra2",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "Is that Mount Ondor?",
+   "display": "Is that Mount Ondor?",
+   "src": "r_ezra2.mp3",
+   "duration": 2.064,
+   "bytes": 16748,
+   "hash": "bb26fd487b75",
+   "words": [
+    {
+     "w": "Is",
+     "start": 0.0,
+     "end": 0.34,
+     "char": 0
+    },
+    {
+     "w": "that",
+     "start": 0.34,
+     "end": 0.5,
+     "char": 3
+    },
+    {
+     "w": "Mount",
+     "start": 0.5,
+     "end": 0.7,
+     "char": 8
+    },
+    {
+     "w": "Ondor?",
+     "start": 0.7,
+     "end": 1.42,
+     "char": 14
+    }
+   ],
+   "cues": [
+    {
+     "text": "Is that Mount Ondor?",
+     "start": 0.0,
+     "end": 1.42
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 4
+   },
+   "qa": {
+    "duration_s": 2.01,
+    "rms": 0.0957,
+    "peak": 0.7289,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Is that Mount Ondor?",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "r_beni2",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "Yeah... Why does it look like a volcano?",
+   "display": "Yeah... Why does it look like a volcano?",
+   "src": "r_beni2.mp3",
+   "duration": 2.88,
+   "bytes": 23276,
+   "hash": "51d0036a56fc",
+   "words": [
+    {
+     "w": "Yeah...",
+     "start": 0.0,
+     "end": 0.4,
+     "char": 0
+    },
+    {
+     "w": "Why",
+     "start": 0.7,
+     "end": 0.96,
+     "char": 8
+    },
+    {
+     "w": "does",
+     "start": 0.96,
+     "end": 1.08,
+     "char": 12
+    },
+    {
+     "w": "it",
+     "start": 1.08,
+     "end": 1.22,
+     "char": 17
+    },
+    {
+     "w": "look",
+     "start": 1.22,
+     "end": 1.38,
+     "char": 20
+    },
+    {
+     "w": "like",
+     "start": 1.38,
+     "end": 1.54,
+     "char": 25
+    },
+    {
+     "w": "a",
+     "start": 1.54,
+     "end": 1.66,
+     "char": 30
+    },
+    {
+     "w": "volcano?",
+     "start": 1.66,
+     "end": 2.06,
+     "char": 32
+    }
+   ],
+   "cues": [
+    {
+     "text": "Yeah...",
+     "start": 0.0,
+     "end": 0.4
+    },
+    {
+     "text": "Why does it look like a volcano?",
+     "start": 0.7,
+     "end": 2.06
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 8
+   },
+   "qa": {
+    "duration_s": 2.81,
+    "rms": 0.0969,
+    "peak": 0.5975,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "Yeah, why does it look like a volcano?",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "r_titan1",
+   "character": "titan",
+   "voice": "kokoro-am_onyx",
+   "rate": 0.9,
+   "text": "Seismic activity at Mount Ondor. Shadow signature detected.",
+   "display": "Seismic activity at Mount Ondor. Shadow signature detected.",
+   "src": "r_titan1.mp3",
+   "duration": 4.824,
+   "bytes": 38828,
+   "hash": "feea7dcef073",
+   "words": [
+    {
+     "w": "Seismic",
+     "start": 0.0,
+     "end": 0.58,
+     "char": 0
+    },
+    {
+     "w": "activity",
+     "start": 0.58,
+     "end": 0.96,
+     "char": 8
+    },
+    {
+     "w": "at",
+     "start": 0.96,
+     "end": 1.3,
+     "char": 17
+    },
+    {
+     "w": "Mount",
+     "start": 1.3,
+     "end": 1.48,
+     "char": 20
+    },
+    {
+     "w": "Ondor.",
+     "start": 1.48,
+     "end": 2.08,
+     "char": 26
+    },
+    {
+     "w": "Shadow",
+     "start": 2.32,
+     "end": 2.54,
+     "char": 33
+    },
+    {
+     "w": "signature",
+     "start": 2.54,
+     "end": 3.08,
+     "char": 40
+    },
+    {
+     "w": "detected.",
+     "start": 3.08,
+     "end": 3.6,
+     "char": 50
+    }
+   ],
+   "cues": [
+    {
+     "text": "Seismic activity at Mount Ondor.",
+     "start": 0.0,
+     "end": 2.08
+    },
+    {
+     "text": "Shadow signature detected.",
+     "start": 2.32,
+     "end": 3.6
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 8
+   },
+   "qa": {
+    "duration_s": 4.757,
+    "rms": 0.0982,
+    "peak": 0.8325,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Seismic activity at Mount Ondor, Shadow signature detected.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "robotic (same ffmpeg chain as Build 004)"
+  },
+  {
+   "id": "s_n1",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "The forest of Torkvara was never truly quiet. Even when the wind stopped, something remained awake beneath the silence.",
+   "display": "The forest of Torkvara was never truly quiet. Even when the wind stopped, something remained awake beneath the silence.",
+   "src": "s_n1.mp3",
+   "duration": 6.864,
+   "bytes": 55148,
+   "hash": "a07564ea6e5b",
+   "words": [
+    {
+     "w": "The",
+     "start": 0.0,
+     "end": 0.14,
+     "char": 0
+    },
+    {
+     "w": "forest",
+     "start": 0.14,
+     "end": 0.36,
+     "char": 4
+    },
+    {
+     "w": "of",
+     "start": 0.36,
+     "end": 0.58,
+     "char": 11
+    },
+    {
+     "w": "Torkvara",
+     "start": 0.58,
+     "end": 1.08,
+     "char": 14
+    },
+    {
+     "w": "was",
+     "start": 1.08,
+     "end": 1.32,
+     "char": 23
+    },
+    {
+     "w": "never",
+     "start": 1.32,
+     "end": 1.5,
+     "char": 27
+    },
+    {
+     "w": "truly",
+     "start": 1.5,
+     "end": 1.86,
+     "char": 33
+    },
+    {
+     "w": "quiet.",
+     "start": 1.86,
+     "end": 2.32,
+     "char": 39
+    },
+    {
+     "w": "Even",
+     "start": 3.02,
+     "end": 3.32,
+     "char": 46
+    },
+    {
+     "w": "when",
+     "start": 3.32,
+     "end": 3.46,
+     "char": 51
+    },
+    {
+     "w": "the",
+     "start": 3.46,
+     "end": 3.56,
+     "char": 56
+    },
+    {
+     "w": "wind",
+     "start": 3.56,
+     "end": 3.7,
+     "char": 60
+    },
+    {
+     "w": "stopped,",
+     "start": 3.7,
+     "end": 4.08,
+     "char": 65
+    },
+    {
+     "w": "something",
+     "start": 4.46,
+     "end": 4.68,
+     "char": 74
+    },
+    {
+     "w": "remained",
+     "start": 4.68,
+     "end": 5.08,
+     "char": 84
+    },
+    {
+     "w": "awake",
+     "start": 5.08,
+     "end": 5.46,
+     "char": 93
+    },
+    {
+     "w": "beneath",
+     "start": 5.46,
+     "end": 5.8,
+     "char": 99
+    },
+    {
+     "w": "the",
+     "start": 5.8,
+     "end": 6.02,
+     "char": 107
+    },
+    {
+     "w": "silence.",
+     "start": 6.02,
+     "end": 6.32,
+     "char": 111
+    }
+   ],
+   "cues": [
+    {
+     "text": "The forest of Torkvara was never truly quiet.",
+     "start": 0.0,
+     "end": 2.32
+    },
+    {
+     "text": "Even when the wind stopped, something remained awake beneath the silence.",
+     "start": 3.02,
+     "end": 6.32
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 18,
+    "total_words": 19
+   },
+   "qa": {
+    "duration_s": 6.805,
+    "rms": 0.0987,
+    "peak": 0.7234,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "The forest of Torquvara was never truly quiet. Even when the wind stopped, something remained awake beneath the silence.",
+    "word_overlap": 0.947,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_ch1",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Alright. If something is there, you can just say it.",
+   "display": "Alright. If something is there, you can just say it.",
+   "src": "s_ch1.mp3",
+   "duration": 3.504,
+   "bytes": 28268,
+   "hash": "9abdd959c3c7",
+   "words": [
+    {
+     "w": "Alright.",
+     "start": 0.0,
+     "end": 0.38,
+     "char": 0
+    },
+    {
+     "w": "If",
+     "start": 0.76,
+     "end": 0.84,
+     "char": 9
+    },
+    {
+     "w": "something",
+     "start": 0.84,
+     "end": 1.14,
+     "char": 12
+    },
+    {
+     "w": "is",
+     "start": 1.14,
+     "end": 1.42,
+     "char": 22
+    },
+    {
+     "w": "there,",
+     "start": 1.42,
+     "end": 1.76,
+     "char": 25
+    },
+    {
+     "w": "you",
+     "start": 2.18,
+     "end": 2.24,
+     "char": 32
+    },
+    {
+     "w": "can",
+     "start": 2.24,
+     "end": 2.36,
+     "char": 36
+    },
+    {
+     "w": "just",
+     "start": 2.36,
+     "end": 2.6,
+     "char": 40
+    },
+    {
+     "w": "say",
+     "start": 2.6,
+     "end": 2.86,
+     "char": 45
+    },
+    {
+     "w": "it.",
+     "start": 2.86,
+     "end": 3.14,
+     "char": 49
+    }
+   ],
+   "cues": [
+    {
+     "text": "Alright.",
+     "start": 0.0,
+     "end": 0.38
+    },
+    {
+     "text": "If something is there, you can just say it.",
+     "start": 0.76,
+     "end": 3.14
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 10,
+    "total_words": 10
+   },
+   "qa": {
+    "duration_s": 3.455,
+    "rms": 0.0975,
+    "peak": 0.5983,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Alright, if something is there, you can just say it.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_n2",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "A light flickered between the trees. Then another. Then more.",
+   "display": "A light flickered between the trees. Then another. Then more.",
+   "src": "s_n2.mp3",
+   "duration": 3.264,
+   "bytes": 26348,
+   "hash": "c740aac24ae5",
+   "words": [
+    {
+     "w": "A",
+     "start": 0.0,
+     "end": 0.16,
+     "char": 0
+    },
+    {
+     "w": "light",
+     "start": 0.16,
+     "end": 0.32,
+     "char": 2
+    },
+    {
+     "w": "flickered",
+     "start": 0.32,
+     "end": 0.7,
+     "char": 8
+    },
+    {
+     "w": "between",
+     "start": 0.7,
+     "end": 0.96,
+     "char": 18
+    },
+    {
+     "w": "the",
+     "start": 0.96,
+     "end": 1.12,
+     "char": 26
+    },
+    {
+     "w": "trees.",
+     "start": 1.12,
+     "end": 1.36,
+     "char": 30
+    },
+    {
+     "w": "Then",
+     "start": 1.8,
+     "end": 1.92,
+     "char": 37
+    },
+    {
+     "w": "another.",
+     "start": 1.92,
+     "end": 2.14,
+     "char": 42
+    },
+    {
+     "w": "Then",
+     "start": 2.44,
+     "end": 2.58,
+     "char": 51
+    },
+    {
+     "w": "more.",
+     "start": 2.58,
+     "end": 2.82,
+     "char": 56
+    }
+   ],
+   "cues": [
+    {
+     "text": "A light flickered between the trees.",
+     "start": 0.0,
+     "end": 1.36
+    },
+    {
+     "text": "Then another.",
+     "start": 1.8,
+     "end": 2.14
+    },
+    {
+     "text": "Then more.",
+     "start": 2.44,
+     "end": 2.82
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 9,
+    "total_words": 10
+   },
+   "qa": {
+    "duration_s": 3.199,
+    "rms": 0.0973,
+    "peak": 0.6218,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "A light flicked between the trees, then another, then more.",
+    "word_overlap": 0.9,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_ch2",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "You've been watching me.",
+   "display": "You've been watching me.",
+   "src": "s_ch2.mp3",
+   "duration": 1.728,
+   "bytes": 14060,
+   "hash": "680279674893",
+   "words": [
+    {
+     "w": "You've",
+     "start": 0.0,
+     "end": 0.26,
+     "char": 0
+    },
+    {
+     "w": "been",
+     "start": 0.26,
+     "end": 0.42,
+     "char": 7
+    },
+    {
+     "w": "watching",
+     "start": 0.42,
+     "end": 0.86,
+     "char": 12
+    },
+    {
+     "w": "me.",
+     "start": 0.86,
+     "end": 1.26,
+     "char": 21
+    }
+   ],
+   "cues": [
+    {
+     "text": "You've been watching me.",
+     "start": 0.0,
+     "end": 1.26
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 4
+   },
+   "qa": {
+    "duration_s": 1.663,
+    "rms": 0.0948,
+    "peak": 0.4225,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "You've been watching me.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_pr1",
+   "character": "presence",
+   "voice": "kokoro-af_sky",
+   "rate": 0.85,
+   "text": "You are between.",
+   "display": "You are between.",
+   "src": "s_pr1.mp3",
+   "duration": 1.944,
+   "bytes": 14444,
+   "hash": "f55520b1649f",
+   "words": [
+    {
+     "w": "You",
+     "start": 0.0,
+     "end": 0.32,
+     "char": 0
+    },
+    {
+     "w": "are",
+     "start": 0.32,
+     "end": 0.58,
+     "char": 4
+    },
+    {
+     "w": "between.",
+     "start": 0.58,
+     "end": 0.96,
+     "char": 8
+    }
+   ],
+   "cues": [
+    {
+     "text": "You are between.",
+     "start": 0.0,
+     "end": 0.96
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 1.727,
+    "rms": 0.095,
+    "peak": 0.763,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "You are between.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "ethereal (echo+chorus)"
+  },
+  {
+   "id": "s_ch3",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Between what?",
+   "display": "Between what?",
+   "src": "s_ch3.mp3",
+   "duration": 1.392,
+   "bytes": 11372,
+   "hash": "35070bd3b80c",
+   "words": [
+    {
+     "w": "Between",
+     "start": 0.0,
+     "end": 0.38,
+     "char": 0
+    },
+    {
+     "w": "what?",
+     "start": 0.38,
+     "end": 0.78,
+     "char": 8
+    }
+   ],
+   "cues": [
+    {
+     "text": "Between what?",
+     "start": 0.0,
+     "end": 0.78
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "duration_s": 1.343,
+    "rms": 0.0935,
+    "peak": 0.4687,
+    "rms_dbfs": -20.6,
+    "silent": false,
+    "transcript": "Between what?",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_pr2",
+   "character": "presence",
+   "voice": "kokoro-af_sky",
+   "rate": 0.85,
+   "text": "Between what was, and what is becoming.",
+   "display": "Between what was, and what is becoming.",
+   "src": "s_pr2.mp3",
+   "duration": 3.096,
+   "bytes": 23660,
+   "hash": "4f596fe71113",
+   "words": [
+    {
+     "w": "Between",
+     "start": 0.0,
+     "end": 0.28,
+     "char": 0
+    },
+    {
+     "w": "what",
+     "start": 0.28,
+     "end": 0.68,
+     "char": 8
+    },
+    {
+     "w": "was,",
+     "start": 0.68,
+     "end": 1.02,
+     "char": 13
+    },
+    {
+     "w": "and",
+     "start": 1.02,
+     "end": 1.5,
+     "char": 18
+    },
+    {
+     "w": "what",
+     "start": 1.5,
+     "end": 1.74,
+     "char": 22
+    },
+    {
+     "w": "is",
+     "start": 1.74,
+     "end": 1.88,
+     "char": 27
+    },
+    {
+     "w": "becoming.",
+     "start": 1.88,
+     "end": 2.28,
+     "char": 30
+    }
+   ],
+   "cues": [
+    {
+     "text": "Between what was, and what is becoming.",
+     "start": 0.0,
+     "end": 2.28
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 7,
+    "total_words": 7
+   },
+   "qa": {
+    "duration_s": 2.858,
+    "rms": 0.097,
+    "peak": 0.7303,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "between what was and what is becoming.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "ethereal (echo+chorus)"
+  },
+  {
+   "id": "s_ch4",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "That's not very clear.",
+   "display": "That's not very clear.",
+   "src": "s_ch4.mp3",
+   "duration": 1.776,
+   "bytes": 14444,
+   "hash": "98fc1069bf78",
+   "words": [
+    {
+     "w": "That's",
+     "start": 0.0,
+     "end": 0.3,
+     "char": 0
+    },
+    {
+     "w": "not",
+     "start": 0.3,
+     "end": 0.44,
+     "char": 7
+    },
+    {
+     "w": "very",
+     "start": 0.44,
+     "end": 0.7,
+     "char": 11
+    },
+    {
+     "w": "clear.",
+     "start": 0.7,
+     "end": 1.2,
+     "char": 16
+    }
+   ],
+   "cues": [
+    {
+     "text": "That's not very clear.",
+     "start": 0.0,
+     "end": 1.2
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 4
+   },
+   "qa": {
+    "duration_s": 1.706,
+    "rms": 0.0949,
+    "peak": 0.4812,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "That's not very clear.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_n3",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "Another light moved forward, and something appeared between the trees. A staff.",
+   "display": "Another light moved forward, and something appeared between the trees. A staff.",
+   "src": "s_n3.mp3",
+   "duration": 4.416,
+   "bytes": 35564,
+   "hash": "d25f74aa3c75",
+   "words": [
+    {
+     "w": "Another",
+     "start": 0.0,
+     "end": 0.32,
+     "char": 0
+    },
+    {
+     "w": "light",
+     "start": 0.32,
+     "end": 0.58,
+     "char": 8
+    },
+    {
+     "w": "moved",
+     "start": 0.58,
+     "end": 0.84,
+     "char": 14
+    },
+    {
+     "w": "forward,",
+     "start": 0.84,
+     "end": 1.22,
+     "char": 20
+    },
+    {
+     "w": "and",
+     "start": 1.22,
+     "end": 1.44,
+     "char": 29
+    },
+    {
+     "w": "something",
+     "start": 1.44,
+     "end": 1.7,
+     "char": 33
+    },
+    {
+     "w": "appeared",
+     "start": 1.7,
+     "end": 2.02,
+     "char": 43
+    },
+    {
+     "w": "between",
+     "start": 2.02,
+     "end": 2.38,
+     "char": 52
+    },
+    {
+     "w": "the",
+     "start": 2.38,
+     "end": 2.54,
+     "char": 60
+    },
+    {
+     "w": "trees.",
+     "start": 2.54,
+     "end": 2.76,
+     "char": 64
+    },
+    {
+     "w": "A",
+     "start": 3.62,
+     "end": 3.64,
+     "char": 71
+    },
+    {
+     "w": "staff.",
+     "start": 3.64,
+     "end": 3.9,
+     "char": 73
+    }
+   ],
+   "cues": [
+    {
+     "text": "Another light moved forward, and something appeared between the trees.",
+     "start": 0.0,
+     "end": 2.76
+    },
+    {
+     "text": "A staff.",
+     "start": 3.62,
+     "end": 3.9
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 12,
+    "total_words": 12
+   },
+   "qa": {
+    "duration_s": 4.351,
+    "rms": 0.098,
+    "peak": 0.679,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "a little bit more. I'll never let it move forward and something appeared between the trees. A staff. //",
+    "word_overlap": 0.75,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_ch5",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Why me?",
+   "display": "Why me?",
+   "src": "s_ch5.mp3",
+   "duration": 1.128,
+   "bytes": 9260,
+   "hash": "0abff42b3d94",
+   "words": [
+    {
+     "w": "Why",
+     "start": 0.0,
+     "end": 0.26,
+     "char": 0
+    },
+    {
+     "w": "me?",
+     "start": 0.26,
+     "end": 0.5,
+     "char": 4
+    }
+   ],
+   "cues": [
+    {
+     "text": "Why me?",
+     "start": 0.0,
+     "end": 0.5
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "duration_s": 1.066,
+    "rms": 0.0917,
+    "peak": 0.3876,
+    "rms_dbfs": -20.8,
+    "silent": false,
+    "transcript": "Why me?",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_pr3",
+   "character": "presence",
+   "voice": "kokoro-af_sky",
+   "rate": 0.85,
+   "text": "You were chosen long before this.",
+   "display": "You were chosen long before this.",
+   "src": "s_pr3.mp3",
+   "duration": 2.76,
+   "bytes": 20972,
+   "hash": "a635428c8302",
+   "words": [
+    {
+     "w": "You",
+     "start": 0.0,
+     "end": 0.34,
+     "char": 0
+    },
+    {
+     "w": "were",
+     "start": 0.34,
+     "end": 0.44,
+     "char": 4
+    },
+    {
+     "w": "chosen",
+     "start": 0.44,
+     "end": 0.78,
+     "char": 9
+    },
+    {
+     "w": "long",
+     "start": 0.78,
+     "end": 1.28,
+     "char": 16
+    },
+    {
+     "w": "before",
+     "start": 1.28,
+     "end": 1.7,
+     "char": 21
+    },
+    {
+     "w": "this.",
+     "start": 1.7,
+     "end": 2.02,
+     "char": 28
+    }
+   ],
+   "cues": [
+    {
+     "text": "You were chosen long before this.",
+     "start": 0.0,
+     "end": 2.02
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 6,
+    "total_words": 6
+   },
+   "qa": {
+    "duration_s": 2.538,
+    "rms": 0.0966,
+    "peak": 0.7798,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "You were chosen long before this.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "ethereal (echo+chorus)"
+  },
+  {
+   "id": "s_ch6",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Chosen for what?",
+   "display": "Chosen for what?",
+   "src": "s_ch6.mp3",
+   "duration": 1.608,
+   "bytes": 13100,
+   "hash": "3dbf6b14add8",
+   "words": [
+    {
+     "w": "Chosen",
+     "start": 0.0,
+     "end": 0.36,
+     "char": 0
+    },
+    {
+     "w": "for",
+     "start": 0.36,
+     "end": 0.74,
+     "char": 7
+    },
+    {
+     "w": "what?",
+     "start": 0.74,
+     "end": 1.04,
+     "char": 11
+    }
+   ],
+   "cues": [
+    {
+     "text": "Chosen for what?",
+     "start": 0.0,
+     "end": 1.04
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 1.557,
+    "rms": 0.0944,
+    "peak": 0.4604,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "Chosen for what?",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_pr4",
+   "character": "presence",
+   "voice": "kokoro-af_sky",
+   "rate": 0.85,
+   "text": "You'll see.",
+   "display": "You'll see.",
+   "src": "s_pr4.mp3",
+   "duration": 1.56,
+   "bytes": 11372,
+   "hash": "b3ee19d108ed",
+   "words": [
+    {
+     "w": "You'll",
+     "start": 0.22,
+     "end": 0.42,
+     "char": 0
+    },
+    {
+     "w": "see.",
+     "start": 0.42,
+     "end": 0.68,
+     "char": 7
+    }
+   ],
+   "cues": [
+    {
+     "text": "You'll see.",
+     "start": 0.22,
+     "end": 0.68
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "duration_s": 1.343,
+    "rms": 0.0935,
+    "peak": 0.6877,
+    "rms_dbfs": -20.6,
+    "silent": false,
+    "transcript": "And you'll see.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "ethereal (echo+chorus)"
+  },
+  {
+   "id": "s_ch7",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Yeah. That sounds about right.",
+   "display": "Yeah. That sounds about right.",
+   "src": "s_ch7.mp3",
+   "duration": 2.136,
+   "bytes": 17324,
+   "hash": "ae9114c340ef",
+   "words": [
+    {
+     "w": "Yeah.",
+     "start": 0.0,
+     "end": 0.26,
+     "char": 0
+    },
+    {
+     "w": "That",
+     "start": 0.54,
+     "end": 0.62,
+     "char": 6
+    },
+    {
+     "w": "sounds",
+     "start": 0.62,
+     "end": 0.9,
+     "char": 11
+    },
+    {
+     "w": "about",
+     "start": 0.9,
+     "end": 1.24,
+     "char": 18
+    },
+    {
+     "w": "right.",
+     "start": 1.24,
+     "end": 1.6,
+     "char": 24
+    }
+   ],
+   "cues": [
+    {
+     "text": "Yeah.",
+     "start": 0.0,
+     "end": 0.26
+    },
+    {
+     "text": "That sounds about right.",
+     "start": 0.54,
+     "end": 1.6
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 5,
+    "total_words": 5
+   },
+   "qa": {
+    "duration_s": 2.069,
+    "rms": 0.0958,
+    "peak": 0.4743,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Yeah, that sounds about right.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_pr5",
+   "character": "presence",
+   "voice": "kokoro-af_sky",
+   "rate": 0.85,
+   "text": "Build.",
+   "display": "Build.",
+   "src": "s_pr5.mp3",
+   "duration": 1.368,
+   "bytes": 9836,
+   "hash": "e7e566ea7dc8",
+   "words": [
+    {
+     "w": "Build.",
+     "start": 0.0,
+     "end": 0.42,
+     "char": 0
+    }
+   ],
+   "cues": [
+    {
+     "text": "Build.",
+     "start": 0.0,
+     "end": 0.42
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 1,
+    "total_words": 1
+   },
+   "qa": {
+    "duration_s": 1.13,
+    "rms": 0.0922,
+    "peak": 0.5869,
+    "rms_dbfs": -20.7,
+    "silent": false,
+    "transcript": "You build.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "ethereal (echo+chorus)"
+  },
+  {
+   "id": "s_ch8",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Build what?",
+   "display": "Build what?",
+   "src": "s_ch8.mp3",
+   "duration": 1.248,
+   "bytes": 10220,
+   "hash": "abee76e46557",
+   "words": [
+    {
+     "w": "Build",
+     "start": 0.0,
+     "end": 0.32,
+     "char": 0
+    },
+    {
+     "w": "what?",
+     "start": 0.32,
+     "end": 0.64,
+     "char": 6
+    }
+   ],
+   "cues": [
+    {
+     "text": "Build what?",
+     "start": 0.0,
+     "end": 0.64
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "duration_s": 1.194,
+    "rms": 0.0926,
+    "peak": 0.5066,
+    "rms_dbfs": -20.7,
+    "silent": false,
+    "transcript": "Build what?",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_n4",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "The light drifted lower. Between the roots and stones, two small streams moved separately through the forest, then met and continued together as one.",
+   "display": "The light drifted lower. Between the roots and stones, two small streams moved separately through the forest, then met and continued together as one.",
+   "src": "s_n4.mp3",
+   "duration": 8.184,
+   "bytes": 65708,
+   "hash": "21cc38e9362b",
+   "words": [
+    {
+     "w": "The",
+     "start": 0.0,
+     "end": 0.14,
+     "char": 0
+    },
+    {
+     "w": "light",
+     "start": 0.14,
+     "end": 0.32,
+     "char": 4
+    },
+    {
+     "w": "drifted",
+     "start": 0.32,
+     "end": 0.56,
+     "char": 10
+    },
+    {
+     "w": "lower.",
+     "start": 0.56,
+     "end": 1.0,
+     "char": 18
+    },
+    {
+     "w": "Between",
+     "start": 1.74,
+     "end": 1.9,
+     "char": 25
+    },
+    {
+     "w": "the",
+     "start": 1.9,
+     "end": 2.08,
+     "char": 33
+    },
+    {
+     "w": "roots",
+     "start": 2.08,
+     "end": 2.26,
+     "char": 37
+    },
+    {
+     "w": "and",
+     "start": 2.26,
+     "end": 2.5,
+     "char": 43
+    },
+    {
+     "w": "stones,",
+     "start": 2.5,
+     "end": 2.76,
+     "char": 47
+    },
+    {
+     "w": "two",
+     "start": 2.8,
+     "end": 3.3,
+     "char": 55
+    },
+    {
+     "w": "small",
+     "start": 3.3,
+     "end": 3.56,
+     "char": 59
+    },
+    {
+     "w": "streams",
+     "start": 3.56,
+     "end": 3.86,
+     "char": 65
+    },
+    {
+     "w": "moved",
+     "start": 3.86,
+     "end": 4.28,
+     "char": 73
+    },
+    {
+     "w": "separately",
+     "start": 4.28,
+     "end": 4.54,
+     "char": 79
+    },
+    {
+     "w": "through",
+     "start": 4.54,
+     "end": 5.04,
+     "char": 90
+    },
+    {
+     "w": "the",
+     "start": 5.04,
+     "end": 5.14,
+     "char": 98
+    },
+    {
+     "w": "forest,",
+     "start": 5.14,
+     "end": 5.42,
+     "char": 102
+    },
+    {
+     "w": "then",
+     "start": 6.0,
+     "end": 6.1,
+     "char": 110
+    },
+    {
+     "w": "met",
+     "start": 6.1,
+     "end": 6.3,
+     "char": 115
+    },
+    {
+     "w": "and",
+     "start": 6.3,
+     "end": 6.54,
+     "char": 119
+    },
+    {
+     "w": "continued",
+     "start": 6.54,
+     "end": 6.84,
+     "char": 123
+    },
+    {
+     "w": "together",
+     "start": 6.84,
+     "end": 7.22,
+     "char": 133
+    },
+    {
+     "w": "as",
+     "start": 7.22,
+     "end": 7.6,
+     "char": 142
+    },
+    {
+     "w": "one.",
+     "start": 7.6,
+     "end": 7.74,
+     "char": 145
+    }
+   ],
+   "cues": [
+    {
+     "text": "The light drifted lower.",
+     "start": 0.0,
+     "end": 1.0
+    },
+    {
+     "text": "Between the roots and stones, two small streams moved separately through the forest, then met and continued together as one.",
+     "start": 1.74,
+     "end": 7.74
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 23,
+    "total_words": 24
+   },
+   "qa": {
+    "duration_s": 8.127,
+    "rms": 0.0989,
+    "peak": 0.6941,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "The light drifted lower. Between the roots and stones, two small streams moved separately through the forest, then met and continued together as one.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_ch9",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "A place where things come together. A center.",
+   "display": "A place where things come together. A center.",
+   "src": "s_ch9.mp3",
+   "duration": 3.264,
+   "bytes": 26348,
+   "hash": "eb76add93724",
+   "words": [
+    {
+     "w": "A",
+     "start": 0.0,
+     "end": 0.14,
+     "char": 0
+    },
+    {
+     "w": "place",
+     "start": 0.14,
+     "end": 0.36,
+     "char": 2
+    },
+    {
+     "w": "where",
+     "start": 0.36,
+     "end": 0.68,
+     "char": 8
+    },
+    {
+     "w": "things",
+     "start": 0.68,
+     "end": 0.94,
+     "char": 14
+    },
+    {
+     "w": "come",
+     "start": 0.94,
+     "end": 1.3,
+     "char": 21
+    },
+    {
+     "w": "together.",
+     "start": 1.3,
+     "end": 1.8,
+     "char": 26
+    },
+    {
+     "w": "A",
+     "start": 2.24,
+     "end": 2.3,
+     "char": 36
+    },
+    {
+     "w": "center.",
+     "start": 2.3,
+     "end": 2.7,
+     "char": 38
+    }
+   ],
+   "cues": [
+    {
+     "text": "A place where things come together.",
+     "start": 0.0,
+     "end": 1.8
+    },
+    {
+     "text": "A center.",
+     "start": 2.24,
+     "end": 2.7
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 8
+   },
+   "qa": {
+    "duration_s": 3.199,
+    "rms": 0.0973,
+    "peak": 0.6674,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "A place where things come together, a center.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_ch10",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "FlowPoint.",
+   "display": "FlowPoint.",
+   "src": "s_ch10.mp3",
+   "duration": 1.344,
+   "bytes": 10988,
+   "hash": "1ae669dfc04d",
+   "words": [
+    {
+     "w": "FlowPoint.",
+     "start": 0.05,
+     "end": 1.279,
+     "char": 0
+    }
+   ],
+   "cues": [
+    {
+     "text": "FlowPoint.",
+     "start": 0.05,
+     "end": 1.279
+    }
+   ],
+   "timing": {
+    "method": "estimated",
+    "matched_words": 0,
+    "total_words": 1
+   },
+   "qa": {
+    "duration_s": 1.279,
+    "rms": 0.0931,
+    "peak": 0.5008,
+    "rms_dbfs": -20.6,
+    "silent": false,
+    "transcript": "Flow pointer.",
+    "word_overlap": 0.0,
+    "pass": false
+   }
+  },
+  {
+   "id": "s_n5",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "The moment his hand touched the staff, everything shifted within him. Not stronger. Clearer.",
+   "display": "The moment his hand touched the staff, everything shifted within him. Not stronger. Clearer.",
+   "src": "s_n5.mp3",
+   "duration": 5.16,
+   "bytes": 41516,
+   "hash": "66789a89f971",
+   "words": [
+    {
+     "w": "The",
+     "start": 0.0,
+     "end": 0.12,
+     "char": 0
+    },
+    {
+     "w": "moment",
+     "start": 0.12,
+     "end": 0.36,
+     "char": 4
+    },
+    {
+     "w": "his",
+     "start": 0.36,
+     "end": 0.56,
+     "char": 11
+    },
+    {
+     "w": "hand",
+     "start": 0.56,
+     "end": 0.84,
+     "char": 15
+    },
+    {
+     "w": "touched",
+     "start": 0.84,
+     "end": 0.98,
+     "char": 20
+    },
+    {
+     "w": "the",
+     "start": 0.98,
+     "end": 1.28,
+     "char": 28
+    },
+    {
+     "w": "staff,",
+     "start": 1.28,
+     "end": 1.52,
+     "char": 32
+    },
+    {
+     "w": "everything",
+     "start": 1.76,
+     "end": 2.04,
+     "char": 39
+    },
+    {
+     "w": "shifted",
+     "start": 2.04,
+     "end": 2.38,
+     "char": 50
+    },
+    {
+     "w": "within",
+     "start": 2.38,
+     "end": 2.74,
+     "char": 58
+    },
+    {
+     "w": "him.",
+     "start": 2.74,
+     "end": 2.98,
+     "char": 65
+    },
+    {
+     "w": "Not",
+     "start": 3.7,
+     "end": 3.7,
+     "char": 70
+    },
+    {
+     "w": "stronger.",
+     "start": 3.7,
+     "end": 3.94,
+     "char": 74
+    },
+    {
+     "w": "Clearer.",
+     "start": 4.44,
+     "end": 4.64,
+     "char": 84
+    }
+   ],
+   "cues": [
+    {
+     "text": "The moment his hand touched the staff, everything shifted within him.",
+     "start": 0.0,
+     "end": 2.98
+    },
+    {
+     "text": "Not stronger.",
+     "start": 3.7,
+     "end": 3.94
+    },
+    {
+     "text": "Clearer.",
+     "start": 4.44,
+     "end": 4.64
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 14,
+    "total_words": 14
+   },
+   "qa": {
+    "duration_s": 5.098,
+    "rms": 0.0983,
+    "peak": 0.777,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "The moment his hand touched the staff, everything shifted within him. Not stronger, clearer.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_ch11",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Okay. That's new.",
+   "display": "Okay. That's new.",
+   "src": "s_ch11.mp3",
+   "duration": 1.752,
+   "bytes": 14252,
+   "hash": "f66919ec0532",
+   "words": [
+    {
+     "w": "Okay.",
+     "start": 0.0,
+     "end": 0.36,
+     "char": 0
+    },
+    {
+     "w": "That's",
+     "start": 0.7,
+     "end": 0.96,
+     "char": 6
+    },
+    {
+     "w": "new.",
+     "start": 0.96,
+     "end": 1.18,
+     "char": 13
+    }
+   ],
+   "cues": [
+    {
+     "text": "Okay.",
+     "start": 0.0,
+     "end": 0.36
+    },
+    {
+     "text": "That's new.",
+     "start": 0.7,
+     "end": 1.18
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 1.685,
+    "rms": 0.0948,
+    "peak": 0.4328,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "Okay, that's new.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_ch12",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "What am I supposed to do with this?",
+   "display": "What am I supposed to do with this?",
+   "src": "s_ch12.mp3",
+   "duration": 2.4,
+   "bytes": 19436,
+   "hash": "521348b47f49",
+   "words": [
+    {
+     "w": "What",
+     "start": 0.0,
+     "end": 0.18,
+     "char": 0
+    },
+    {
+     "w": "am",
+     "start": 0.18,
+     "end": 0.34,
+     "char": 5
+    },
+    {
+     "w": "I",
+     "start": 0.34,
+     "end": 0.56,
+     "char": 8
+    },
+    {
+     "w": "supposed",
+     "start": 0.56,
+     "end": 0.84,
+     "char": 10
+    },
+    {
+     "w": "to",
+     "start": 0.84,
+     "end": 1.26,
+     "char": 19
+    },
+    {
+     "w": "do",
+     "start": 1.26,
+     "end": 1.44,
+     "char": 22
+    },
+    {
+     "w": "with",
+     "start": 1.44,
+     "end": 1.68,
+     "char": 25
+    },
+    {
+     "w": "this?",
+     "start": 1.68,
+     "end": 1.9,
+     "char": 30
+    }
+   ],
+   "cues": [
+    {
+     "text": "What am I supposed to do with this?",
+     "start": 0.0,
+     "end": 1.9
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 8
+   },
+   "qa": {
+    "duration_s": 2.346,
+    "rms": 0.0963,
+    "peak": 0.508,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "What am I supposed to do with this?",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_pr6",
+   "character": "presence",
+   "voice": "kokoro-af_sky",
+   "rate": 0.85,
+   "text": "Walk.",
+   "display": "Walk.",
+   "src": "s_pr6.mp3",
+   "duration": 1.344,
+   "bytes": 9644,
+   "hash": "6b85e070fee5",
+   "words": [
+    {
+     "w": "Walk.",
+     "start": 0.24,
+     "end": 0.52,
+     "char": 0
+    }
+   ],
+   "cues": [
+    {
+     "text": "Walk.",
+     "start": 0.24,
+     "end": 0.52
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 1,
+    "total_words": 1
+   },
+   "qa": {
+    "duration_s": 1.109,
+    "rms": 0.092,
+    "peak": 0.6109,
+    "rms_dbfs": -20.7,
+    "silent": false,
+    "transcript": "They walk.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "ethereal (echo+chorus)"
+  },
+  {
+   "id": "s_ch13",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Of course.",
+   "display": "Of course.",
+   "src": "s_ch13.mp3",
+   "duration": 1.176,
+   "bytes": 9644,
+   "hash": "0302660a4825",
+   "words": [
+    {
+     "w": "Of",
+     "start": 0.0,
+     "end": 0.16,
+     "char": 0
+    },
+    {
+     "w": "course.",
+     "start": 0.16,
+     "end": 0.4,
+     "char": 3
+    }
+   ],
+   "cues": [
+    {
+     "text": "Of course.",
+     "start": 0.0,
+     "end": 0.4
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "duration_s": 1.109,
+    "rms": 0.092,
+    "peak": 0.4653,
+    "rms_dbfs": -20.7,
+    "silent": false,
+    "transcript": "Of course!",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "s_ch14",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Alright. Let's see where this goes.",
+   "display": "Alright. Let's see where this goes.",
+   "src": "s_ch14.mp3",
+   "duration": 2.352,
+   "bytes": 19052,
+   "hash": "c75998ef275a",
+   "words": [
+    {
+     "w": "Alright.",
+     "start": 0.0,
+     "end": 0.38,
+     "char": 0
+    },
+    {
+     "w": "Let's",
+     "start": 0.7,
+     "end": 0.9,
+     "char": 9
+    },
+    {
+     "w": "see",
+     "start": 0.9,
+     "end": 1.02,
+     "char": 15
+    },
+    {
+     "w": "where",
+     "start": 1.02,
+     "end": 1.22,
+     "char": 19
+    },
+    {
+     "w": "this",
+     "start": 1.22,
+     "end": 1.36,
+     "char": 25
+    },
+    {
+     "w": "goes.",
+     "start": 1.36,
+     "end": 1.78,
+     "char": 30
+    }
+   ],
+   "cues": [
+    {
+     "text": "Alright.",
+     "start": 0.0,
+     "end": 0.38
+    },
+    {
+     "text": "Let's see where this goes.",
+     "start": 0.7,
+     "end": 1.78
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 6,
+    "total_words": 6
+   },
+   "qa": {
+    "duration_s": 2.282,
+    "rms": 0.0962,
+    "peak": 0.5121,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "Alright, let's see where this goes.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "v_n1",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "Far away, the ground shook. Red light split Mount Ondor, and lava rolled down its sides. The mountain had become a volcano.",
+   "display": "Far away, the ground shook. Red light split Mount Ondor, and lava rolled down its sides. The mountain had become a volcano.",
+   "src": "v_n1.mp3",
+   "duration": 7.392,
+   "bytes": 59372,
+   "hash": "7f00e986db87",
+   "words": [
+    {
+     "w": "Far",
+     "start": 0.0,
+     "end": 0.26,
+     "char": 0
+    },
+    {
+     "w": "away,",
+     "start": 0.26,
+     "end": 0.52,
+     "char": 4
+    },
+    {
+     "w": "the",
+     "start": 0.52,
+     "end": 0.82,
+     "char": 10
+    },
+    {
+     "w": "ground",
+     "start": 0.82,
+     "end": 1.04,
+     "char": 14
+    },
+    {
+     "w": "shook.",
+     "start": 1.04,
+     "end": 1.44,
+     "char": 21
+    },
+    {
+     "w": "Red",
+     "start": 2.22,
+     "end": 2.22,
+     "char": 28
+    },
+    {
+     "w": "light",
+     "start": 2.22,
+     "end": 2.48,
+     "char": 32
+    },
+    {
+     "w": "split",
+     "start": 2.48,
+     "end": 2.76,
+     "char": 38
+    },
+    {
+     "w": "Mount",
+     "start": 2.76,
+     "end": 3.02,
+     "char": 44
+    },
+    {
+     "w": "Ondor,",
+     "start": 3.02,
+     "end": 3.46,
+     "char": 50
+    },
+    {
+     "w": "and",
+     "start": 3.46,
+     "end": 3.66,
+     "char": 57
+    },
+    {
+     "w": "lava",
+     "start": 3.66,
+     "end": 3.82,
+     "char": 61
+    },
+    {
+     "w": "rolled",
+     "start": 3.82,
+     "end": 4.16,
+     "char": 66
+    },
+    {
+     "w": "down",
+     "start": 4.16,
+     "end": 4.42,
+     "char": 73
+    },
+    {
+     "w": "its",
+     "start": 4.42,
+     "end": 4.58,
+     "char": 78
+    },
+    {
+     "w": "sides.",
+     "start": 4.58,
+     "end": 4.88,
+     "char": 82
+    },
+    {
+     "w": "The",
+     "start": 5.52,
+     "end": 5.6,
+     "char": 89
+    },
+    {
+     "w": "mountain",
+     "start": 5.6,
+     "end": 5.84,
+     "char": 93
+    },
+    {
+     "w": "had",
+     "start": 5.84,
+     "end": 6.16,
+     "char": 102
+    },
+    {
+     "w": "become",
+     "start": 6.16,
+     "end": 6.42,
+     "char": 106
+    },
+    {
+     "w": "a",
+     "start": 6.42,
+     "end": 6.54,
+     "char": 113
+    },
+    {
+     "w": "volcano.",
+     "start": 6.54,
+     "end": 6.78,
+     "char": 115
+    }
+   ],
+   "cues": [
+    {
+     "text": "Far away, the ground shook.",
+     "start": 0.0,
+     "end": 1.44
+    },
+    {
+     "text": "Red light split Mount Ondor, and lava rolled down its sides.",
+     "start": 2.22,
+     "end": 4.88
+    },
+    {
+     "text": "The mountain had become a volcano.",
+     "start": 5.52,
+     "end": 6.78
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 22,
+    "total_words": 22
+   },
+   "qa": {
+    "duration_s": 7.338,
+    "rms": 0.0988,
+    "peak": 0.6308,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "far away the ground shook. Red light split Mount Ondor and lava rolled down its sides. The mountain had become a volcano.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "v_ch1",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Beni... Ezra. I'm coming.",
+   "display": "Beni... Ezra. I'm coming.",
+   "src": "v_ch1.mp3",
+   "duration": 2.232,
+   "bytes": 18092,
+   "hash": "3b8aa8f8acb0",
+   "words": [
+    {
+     "w": "Beni...",
+     "start": 0.05,
+     "end": 0.26,
+     "char": 0
+    },
+    {
+     "w": "Ezra.",
+     "start": 0.26,
+     "end": 0.72,
+     "char": 8
+    },
+    {
+     "w": "I'm",
+     "start": 1.28,
+     "end": 1.4,
+     "char": 14
+    },
+    {
+     "w": "coming.",
+     "start": 1.4,
+     "end": 1.68,
+     "char": 18
+    }
+   ],
+   "cues": [
+    {
+     "text": "Beni...",
+     "start": 0.05,
+     "end": 0.26
+    },
+    {
+     "text": "Ezra.",
+     "start": 0.26,
+     "end": 0.72
+    },
+    {
+     "text": "I'm coming.",
+     "start": 1.28,
+     "end": 1.68
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 4
+   },
+   "qa": {
+    "duration_s": 2.175,
+    "rms": 0.096,
+    "peak": 0.5158,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Bini Ezra, I'm coming.",
+    "word_overlap": 0.75,
+    "pass": true
+   }
+  },
+  {
+   "id": "f_ch1",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Beni! Ezra! Stay behind me. Are you both alright?",
+   "display": "Beni! Ezra! Stay behind me. Are you both alright?",
+   "src": "f_ch1.mp3",
+   "duration": 3.648,
+   "bytes": 29420,
+   "hash": "5fe97f234422",
+   "words": [
+    {
+     "w": "Beni!",
+     "start": 0.05,
+     "end": 0.2,
+     "char": 0
+    },
+    {
+     "w": "Ezra!",
+     "start": 0.2,
+     "end": 0.56,
+     "char": 6
+    },
+    {
+     "w": "Stay",
+     "start": 1.0,
+     "end": 1.14,
+     "char": 12
+    },
+    {
+     "w": "behind",
+     "start": 1.14,
+     "end": 1.5,
+     "char": 17
+    },
+    {
+     "w": "me.",
+     "start": 1.5,
+     "end": 1.82,
+     "char": 24
+    },
+    {
+     "w": "Are",
+     "start": 2.22,
+     "end": 2.3,
+     "char": 28
+    },
+    {
+     "w": "you",
+     "start": 2.3,
+     "end": 2.4,
+     "char": 32
+    },
+    {
+     "w": "both",
+     "start": 2.4,
+     "end": 2.58,
+     "char": 36
+    },
+    {
+     "w": "alright?",
+     "start": 2.58,
+     "end": 3.02,
+     "char": 41
+    }
+   ],
+   "cues": [
+    {
+     "text": "Beni!",
+     "start": 0.05,
+     "end": 0.2
+    },
+    {
+     "text": "Ezra!",
+     "start": 0.2,
+     "end": 0.56
+    },
+    {
+     "text": "Stay behind me.",
+     "start": 1.0,
+     "end": 1.82
+    },
+    {
+     "text": "Are you both alright?",
+     "start": 2.22,
+     "end": 3.02
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 9
+   },
+   "qa": {
+    "duration_s": 3.583,
+    "rms": 0.0976,
+    "peak": 0.521,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Binnie Ezra, stay behind me. Are you both alright?",
+    "word_overlap": 0.889,
+    "pass": true
+   }
+  },
+  {
+   "id": "f_beni1",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "Dad! You're here!",
+   "display": "Dad! You're here!",
+   "src": "f_beni1.mp3",
+   "duration": 1.752,
+   "bytes": 14252,
+   "hash": "398d6199294d",
+   "words": [
+    {
+     "w": "Dad!",
+     "start": 0.0,
+     "end": 0.44,
+     "char": 0
+    },
+    {
+     "w": "You're",
+     "start": 0.82,
+     "end": 1.06,
+     "char": 5
+    },
+    {
+     "w": "here!",
+     "start": 1.06,
+     "end": 1.28,
+     "char": 12
+    }
+   ],
+   "cues": [
+    {
+     "text": "Dad!",
+     "start": 0.0,
+     "end": 0.44
+    },
+    {
+     "text": "You're here!",
+     "start": 0.82,
+     "end": 1.28
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 1.69,
+    "rms": 0.0948,
+    "peak": 0.4615,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "Dad, you're here!",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "f_n1",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "Lava slugs crept down the mountain, hot and slow, burning everything in their path.",
+   "display": "Lava slugs crept down the mountain, hot and slow, burning everything in their path.",
+   "src": "f_n1.mp3",
+   "duration": 4.8,
+   "bytes": 38636,
+   "hash": "28630189370b",
+   "words": [
+    {
+     "w": "Lava",
+     "start": 0.0,
+     "end": 0.28,
+     "char": 0
+    },
+    {
+     "w": "slugs",
+     "start": 0.28,
+     "end": 0.66,
+     "char": 5
+    },
+    {
+     "w": "crept",
+     "start": 0.66,
+     "end": 0.88,
+     "char": 11
+    },
+    {
+     "w": "down",
+     "start": 0.88,
+     "end": 1.2,
+     "char": 17
+    },
+    {
+     "w": "the",
+     "start": 1.2,
+     "end": 1.32,
+     "char": 22
+    },
+    {
+     "w": "mountain,",
+     "start": 1.32,
+     "end": 1.6,
+     "char": 26
+    },
+    {
+     "w": "hot",
+     "start": 1.98,
+     "end": 2.04,
+     "char": 36
+    },
+    {
+     "w": "and",
+     "start": 2.04,
+     "end": 2.24,
+     "char": 40
+    },
+    {
+     "w": "slow,",
+     "start": 2.24,
+     "end": 2.48,
+     "char": 44
+    },
+    {
+     "w": "burning",
+     "start": 3.0,
+     "end": 3.26,
+     "char": 50
+    },
+    {
+     "w": "everything",
+     "start": 3.26,
+     "end": 3.66,
+     "char": 58
+    },
+    {
+     "w": "in",
+     "start": 3.66,
+     "end": 3.96,
+     "char": 69
+    },
+    {
+     "w": "their",
+     "start": 3.96,
+     "end": 4.1,
+     "char": 72
+    },
+    {
+     "w": "path.",
+     "start": 4.1,
+     "end": 4.34,
+     "char": 78
+    }
+   ],
+   "cues": [
+    {
+     "text": "Lava slugs crept down the mountain, hot and slow, burning everything in their path.",
+     "start": 0.0,
+     "end": 4.34
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 14,
+    "total_words": 14
+   },
+   "qa": {
+    "duration_s": 4.735,
+    "rms": 0.0982,
+    "peak": 0.7131,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Lava slugs crept down the mountain, hot and slow, burning everything in their path.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "f_ezra1",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "Slugs! Everybody, watch the lava!",
+   "display": "Slugs! Everybody, watch the lava!",
+   "src": "f_ezra1.mp3",
+   "duration": 2.88,
+   "bytes": 23276,
+   "hash": "214adf0ec5ff",
+   "words": [
+    {
+     "w": "Slugs!",
+     "start": 0.0,
+     "end": 0.66,
+     "char": 0
+    },
+    {
+     "w": "Everybody,",
+     "start": 1.0,
+     "end": 1.22,
+     "char": 7
+    },
+    {
+     "w": "watch",
+     "start": 1.22,
+     "end": 1.62,
+     "char": 18
+    },
+    {
+     "w": "the",
+     "start": 1.62,
+     "end": 1.86,
+     "char": 24
+    },
+    {
+     "w": "lava!",
+     "start": 1.86,
+     "end": 2.12,
+     "char": 28
+    }
+   ],
+   "cues": [
+    {
+     "text": "Slugs!",
+     "start": 0.0,
+     "end": 0.66
+    },
+    {
+     "text": "Everybody, watch the lava!",
+     "start": 1.0,
+     "end": 2.12
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 5,
+    "total_words": 5
+   },
+   "qa": {
+    "duration_s": 2.81,
+    "rms": 0.0969,
+    "peak": 0.7732,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "Slugs! Everybody watch the lava!",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "f_n2",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "A small shadow glided down out of the smoke, wrapped in darkness.",
+   "display": "A small shadow glided down out of the smoke, wrapped in darkness.",
+   "src": "f_n2.mp3",
+   "duration": 3.888,
+   "bytes": 31340,
+   "hash": "05453f89bec6",
+   "words": [
+    {
+     "w": "A",
+     "start": 0.0,
+     "end": 0.14,
+     "char": 0
+    },
+    {
+     "w": "small",
+     "start": 0.14,
+     "end": 0.36,
+     "char": 2
+    },
+    {
+     "w": "shadow",
+     "start": 0.36,
+     "end": 0.7,
+     "char": 8
+    },
+    {
+     "w": "glided",
+     "start": 0.7,
+     "end": 1.18,
+     "char": 15
+    },
+    {
+     "w": "down",
+     "start": 1.18,
+     "end": 1.42,
+     "char": 22
+    },
+    {
+     "w": "out",
+     "start": 1.42,
+     "end": 1.64,
+     "char": 27
+    },
+    {
+     "w": "of",
+     "start": 1.64,
+     "end": 1.72,
+     "char": 31
+    },
+    {
+     "w": "the",
+     "start": 1.72,
+     "end": 1.8,
+     "char": 34
+    },
+    {
+     "w": "smoke,",
+     "start": 1.8,
+     "end": 2.04,
+     "char": 38
+    },
+    {
+     "w": "wrapped",
+     "start": 2.46,
+     "end": 2.64,
+     "char": 45
+    },
+    {
+     "w": "in",
+     "start": 2.64,
+     "end": 3.46,
+     "char": 53
+    },
+    {
+     "w": "darkness.",
+     "start": 3.46,
+     "end": 3.46,
+     "char": 56
+    }
+   ],
+   "cues": [
+    {
+     "text": "A small shadow glided down out of the smoke, wrapped in darkness.",
+     "start": 0.0,
+     "end": 3.46
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 12,
+    "total_words": 12
+   },
+   "qa": {
+    "duration_s": 3.818,
+    "rms": 0.0977,
+    "peak": 0.5739,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "A small shadow glided down out of the smoke, wrapped in darkness.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "f_ezra2",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "It's wrapped in shadow! Wolfie, Light!",
+   "display": "It's wrapped in shadow! Wolfie, Light!",
+   "src": "f_ezra2.mp3",
+   "duration": 2.4,
+   "bytes": 19436,
+   "hash": "686bee6c026d",
+   "words": [
+    {
+     "w": "It's",
+     "start": 0.0,
+     "end": 0.32,
+     "char": 0
+    },
+    {
+     "w": "wrapped",
+     "start": 0.32,
+     "end": 0.647,
+     "char": 5
+    },
+    {
+     "w": "in",
+     "start": 0.647,
+     "end": 0.74,
+     "char": 13
+    },
+    {
+     "w": "shadow!",
+     "start": 0.74,
+     "end": 1.18,
+     "char": 16
+    },
+    {
+     "w": "Wolfie,",
+     "start": 1.18,
+     "end": 1.62,
+     "char": 24
+    },
+    {
+     "w": "Light!",
+     "start": 1.62,
+     "end": 1.86,
+     "char": 32
+    }
+   ],
+   "cues": [
+    {
+     "text": "It's wrapped in shadow!",
+     "start": 0.0,
+     "end": 1.18
+    },
+    {
+     "text": "Wolfie, Light!",
+     "start": 1.18,
+     "end": 1.86
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 6
+   },
+   "qa": {
+    "duration_s": 2.33,
+    "rms": 0.0963,
+    "peak": 0.5666,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "It's wrapped in shadow, Wolfie Light.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "f_n3",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "Then a huge shadow rose behind it, bigger than any they had seen.",
+   "display": "Then a huge shadow rose behind it, bigger than any they had seen.",
+   "src": "f_n3.mp3",
+   "duration": 3.696,
+   "bytes": 29804,
+   "hash": "f98c8291d71e",
+   "words": [
+    {
+     "w": "Then",
+     "start": 0.05,
+     "end": 0.16,
+     "char": 0
+    },
+    {
+     "w": "a",
+     "start": 0.16,
+     "end": 0.24,
+     "char": 5
+    },
+    {
+     "w": "huge",
+     "start": 0.24,
+     "end": 0.46,
+     "char": 7
+    },
+    {
+     "w": "shadow",
+     "start": 0.46,
+     "end": 0.8,
+     "char": 12
+    },
+    {
+     "w": "rose",
+     "start": 0.8,
+     "end": 1.08,
+     "char": 19
+    },
+    {
+     "w": "behind",
+     "start": 1.08,
+     "end": 1.54,
+     "char": 24
+    },
+    {
+     "w": "it,",
+     "start": 1.54,
+     "end": 2.12,
+     "char": 31
+    },
+    {
+     "w": "bigger",
+     "start": 2.12,
+     "end": 2.38,
+     "char": 35
+    },
+    {
+     "w": "than",
+     "start": 2.38,
+     "end": 2.5,
+     "char": 42
+    },
+    {
+     "w": "any",
+     "start": 2.5,
+     "end": 2.66,
+     "char": 47
+    },
+    {
+     "w": "they",
+     "start": 2.66,
+     "end": 2.8,
+     "char": 51
+    },
+    {
+     "w": "had",
+     "start": 2.8,
+     "end": 2.98,
+     "char": 56
+    },
+    {
+     "w": "seen.",
+     "start": 2.98,
+     "end": 3.24,
+     "char": 60
+    }
+   ],
+   "cues": [
+    {
+     "text": "Then a huge shadow rose behind it, bigger than any they had seen.",
+     "start": 0.05,
+     "end": 3.24
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 11,
+    "total_words": 13
+   },
+   "qa": {
+    "duration_s": 3.647,
+    "rms": 0.0976,
+    "peak": 0.5503,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "than a huge",
+    "word_overlap": 0.231,
+    "pass": false
+   }
+  },
+  {
+   "id": "f_beni2",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "TITAN, Purify Light! Everything you've got!",
+   "display": "TITAN, Purify Light! Everything you've got!",
+   "src": "f_beni2.mp3",
+   "duration": 3.432,
+   "bytes": 27692,
+   "hash": "2ee9be229360",
+   "words": [
+    {
+     "w": "TITAN,",
+     "start": 0.0,
+     "end": 0.48,
+     "char": 0
+    },
+    {
+     "w": "Purify",
+     "start": 0.48,
+     "end": 1.16,
+     "char": 7
+    },
+    {
+     "w": "Light!",
+     "start": 1.16,
+     "end": 1.48,
+     "char": 14
+    },
+    {
+     "w": "Everything",
+     "start": 1.48,
+     "end": 2.26,
+     "char": 21
+    },
+    {
+     "w": "you've",
+     "start": 2.26,
+     "end": 2.66,
+     "char": 32
+    },
+    {
+     "w": "got!",
+     "start": 2.66,
+     "end": 2.78,
+     "char": 39
+    }
+   ],
+   "cues": [
+    {
+     "text": "TITAN, Purify Light!",
+     "start": 0.0,
+     "end": 1.48
+    },
+    {
+     "text": "Everything you've got!",
+     "start": 1.48,
+     "end": 2.78
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 6,
+    "total_words": 6
+   },
+   "qa": {
+    "duration_s": 3.37,
+    "rms": 0.0974,
+    "peak": 0.7011,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Titan purify light everything you've got",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "f_titan1",
+   "character": "titan",
+   "voice": "kokoro-am_onyx",
+   "rate": 0.9,
+   "text": "Purify Light at full power. Aim for the core.",
+   "display": "Purify Light at full power. Aim for the core.",
+   "src": "f_titan1.mp3",
+   "duration": 4.152,
+   "bytes": 33452,
+   "hash": "32c2f1231e27",
+   "words": [
+    {
+     "w": "Purify",
+     "start": 0.0,
+     "end": 0.46,
+     "char": 0
+    },
+    {
+     "w": "Light",
+     "start": 0.46,
+     "end": 0.78,
+     "char": 7
+    },
+    {
+     "w": "at",
+     "start": 0.78,
+     "end": 1.02,
+     "char": 13
+    },
+    {
+     "w": "full",
+     "start": 1.02,
+     "end": 1.24,
+     "char": 16
+    },
+    {
+     "w": "power.",
+     "start": 1.24,
+     "end": 1.7,
+     "char": 21
+    },
+    {
+     "w": "Aim",
+     "start": 2.08,
+     "end": 2.22,
+     "char": 28
+    },
+    {
+     "w": "for",
+     "start": 2.22,
+     "end": 2.52,
+     "char": 32
+    },
+    {
+     "w": "the",
+     "start": 2.52,
+     "end": 2.66,
+     "char": 36
+    },
+    {
+     "w": "core.",
+     "start": 2.66,
+     "end": 2.96,
+     "char": 40
+    }
+   ],
+   "cues": [
+    {
+     "text": "Purify Light at full power.",
+     "start": 0.0,
+     "end": 1.7
+    },
+    {
+     "text": "Aim for the core.",
+     "start": 2.08,
+     "end": 2.96
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 9,
+    "total_words": 9
+   },
+   "qa": {
+    "duration_s": 4.074,
+    "rms": 0.0979,
+    "peak": 0.7422,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Purify light at full power. Aim for the core.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "robotic (same ffmpeg chain as Build 004)"
+  },
+  {
+   "id": "f_hoof1",
+   "character": "hoofkoff",
+   "voice": "kokoro-bm_daniel",
+   "rate": 0.92,
+   "text": "So the little builders brought their father. The mountain is mine now!",
+   "display": "So the little builders brought their father. The mountain is mine now!",
+   "src": "f_hoof1.mp3",
+   "duration": 4.152,
+   "bytes": 33452,
+   "hash": "bb49c30b3671",
+   "words": [
+    {
+     "w": "So",
+     "start": 0.0,
+     "end": 0.2,
+     "char": 0
+    },
+    {
+     "w": "the",
+     "start": 0.2,
+     "end": 0.32,
+     "char": 3
+    },
+    {
+     "w": "little",
+     "start": 0.32,
+     "end": 0.52,
+     "char": 7
+    },
+    {
+     "w": "builders",
+     "start": 0.52,
+     "end": 0.94,
+     "char": 14
+    },
+    {
+     "w": "brought",
+     "start": 0.94,
+     "end": 1.26,
+     "char": 23
+    },
+    {
+     "w": "their",
+     "start": 1.26,
+     "end": 1.52,
+     "char": 31
+    },
+    {
+     "w": "father.",
+     "start": 1.52,
+     "end": 1.82,
+     "char": 37
+    },
+    {
+     "w": "The",
+     "start": 2.3,
+     "end": 2.36,
+     "char": 45
+    },
+    {
+     "w": "mountain",
+     "start": 2.36,
+     "end": 2.6,
+     "char": 49
+    },
+    {
+     "w": "is",
+     "start": 2.6,
+     "end": 3.0,
+     "char": 58
+    },
+    {
+     "w": "mine",
+     "start": 3.0,
+     "end": 3.22,
+     "char": 61
+    },
+    {
+     "w": "now!",
+     "start": 3.22,
+     "end": 3.64,
+     "char": 66
+    }
+   ],
+   "cues": [
+    {
+     "text": "So the little builders brought their father.",
+     "start": 0.0,
+     "end": 1.82
+    },
+    {
+     "text": "The mountain is mine now!",
+     "start": 2.3,
+     "end": 3.64
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 12,
+    "total_words": 12
+   },
+   "qa": {
+    "duration_s": 4.095,
+    "rms": 0.0979,
+    "peak": 0.6348,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "So the little builders brought their father. The mountain is mine now.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "f_ch2",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Not today, Hoofkoff. The Light purifies. It doesn't destroy.",
+   "display": "Not today, Hoofkoff. The Light purifies. It doesn't destroy.",
+   "src": "f_ch2.mp3",
+   "duration": 4.464,
+   "bytes": 35948,
+   "hash": "9b46ba096567",
+   "words": [
+    {
+     "w": "Not",
+     "start": 0.0,
+     "end": 0.2,
+     "char": 0
+    },
+    {
+     "w": "today,",
+     "start": 0.2,
+     "end": 0.48,
+     "char": 4
+    },
+    {
+     "w": "Hoofkoff.",
+     "start": 0.48,
+     "end": 1.48,
+     "char": 11
+    },
+    {
+     "w": "The",
+     "start": 1.48,
+     "end": 1.64,
+     "char": 21
+    },
+    {
+     "w": "Light",
+     "start": 1.64,
+     "end": 1.82,
+     "char": 25
+    },
+    {
+     "w": "purifies.",
+     "start": 1.82,
+     "end": 2.56,
+     "char": 31
+    },
+    {
+     "w": "It",
+     "start": 3.12,
+     "end": 3.18,
+     "char": 41
+    },
+    {
+     "w": "doesn't",
+     "start": 3.18,
+     "end": 3.42,
+     "char": 44
+    },
+    {
+     "w": "destroy.",
+     "start": 3.42,
+     "end": 3.78,
+     "char": 52
+    }
+   ],
+   "cues": [
+    {
+     "text": "Not today, Hoofkoff.",
+     "start": 0.0,
+     "end": 1.48
+    },
+    {
+     "text": "The Light purifies.",
+     "start": 1.48,
+     "end": 2.56
+    },
+    {
+     "text": "It doesn't destroy.",
+     "start": 3.12,
+     "end": 3.78
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 9
+   },
+   "qa": {
+    "duration_s": 4.415,
+    "rms": 0.0981,
+    "peak": 0.4986,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Not today, Hufkopf, the light purifies. It doesn't destroy.",
+    "word_overlap": 0.889,
+    "pass": true
+   }
+  },
+  {
+   "id": "f_hoof2",
+   "character": "hoofkoff",
+   "voice": "kokoro-bm_daniel",
+   "rate": 0.92,
+   "text": "Enough! You haven't seen the last of me!",
+   "display": "Enough! You haven't seen the last of me!",
+   "src": "f_hoof2.mp3",
+   "duration": 2.544,
+   "bytes": 20588,
+   "hash": "912eaaa48b73",
+   "words": [
+    {
+     "w": "Enough!",
+     "start": 0.0,
+     "end": 0.34,
+     "char": 0
+    },
+    {
+     "w": "You",
+     "start": 0.64,
+     "end": 0.7,
+     "char": 8
+    },
+    {
+     "w": "haven't",
+     "start": 0.7,
+     "end": 0.96,
+     "char": 12
+    },
+    {
+     "w": "seen",
+     "start": 0.96,
+     "end": 1.16,
+     "char": 20
+    },
+    {
+     "w": "the",
+     "start": 1.16,
+     "end": 1.32,
+     "char": 25
+    },
+    {
+     "w": "last",
+     "start": 1.32,
+     "end": 1.54,
+     "char": 29
+    },
+    {
+     "w": "of",
+     "start": 1.54,
+     "end": 1.82,
+     "char": 34
+    },
+    {
+     "w": "me!",
+     "start": 1.82,
+     "end": 2.02,
+     "char": 37
+    }
+   ],
+   "cues": [
+    {
+     "text": "Enough!",
+     "start": 0.0,
+     "end": 0.34
+    },
+    {
+     "text": "You haven't seen the last of me!",
+     "start": 0.64,
+     "end": 2.02
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 8,
+    "total_words": 8
+   },
+   "qa": {
+    "duration_s": 2.495,
+    "rms": 0.0965,
+    "peak": 0.5334,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "Enough, you haven't seen the last of me.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "f_n4",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "Hoofkoff dissolved into smoke and slipped away over the ridge. The Light had not destroyed him. It had only driven the darkness back.",
+   "display": "Hoofkoff dissolved into smoke and slipped away over the ridge. The Light had not destroyed him. It had only driven the darkness back.",
+   "src": "f_n4.mp3",
+   "duration": 7.32,
+   "bytes": 58796,
+   "hash": "812741fd3fd5",
+   "words": [
+    {
+     "w": "Hoofkoff",
+     "start": 0.05,
+     "end": 0.44,
+     "char": 0
+    },
+    {
+     "w": "dissolved",
+     "start": 0.44,
+     "end": 0.68,
+     "char": 9
+    },
+    {
+     "w": "into",
+     "start": 0.68,
+     "end": 1.04,
+     "char": 19
+    },
+    {
+     "w": "smoke",
+     "start": 1.04,
+     "end": 1.44,
+     "char": 24
+    },
+    {
+     "w": "and",
+     "start": 1.44,
+     "end": 1.7,
+     "char": 30
+    },
+    {
+     "w": "slipped",
+     "start": 1.7,
+     "end": 1.86,
+     "char": 34
+    },
+    {
+     "w": "away",
+     "start": 1.86,
+     "end": 2.16,
+     "char": 42
+    },
+    {
+     "w": "over",
+     "start": 2.16,
+     "end": 2.44,
+     "char": 47
+    },
+    {
+     "w": "the",
+     "start": 2.44,
+     "end": 2.52,
+     "char": 52
+    },
+    {
+     "w": "ridge.",
+     "start": 2.52,
+     "end": 2.76,
+     "char": 56
+    },
+    {
+     "w": "The",
+     "start": 3.42,
+     "end": 3.52,
+     "char": 63
+    },
+    {
+     "w": "Light",
+     "start": 3.52,
+     "end": 3.7,
+     "char": 67
+    },
+    {
+     "w": "had",
+     "start": 3.7,
+     "end": 3.94,
+     "char": 73
+    },
+    {
+     "w": "not",
+     "start": 3.94,
+     "end": 4.08,
+     "char": 77
+    },
+    {
+     "w": "destroyed",
+     "start": 4.08,
+     "end": 4.44,
+     "char": 81
+    },
+    {
+     "w": "him.",
+     "start": 4.44,
+     "end": 4.8,
+     "char": 91
+    },
+    {
+     "w": "It",
+     "start": 5.24,
+     "end": 5.38,
+     "char": 96
+    },
+    {
+     "w": "had",
+     "start": 5.38,
+     "end": 5.46,
+     "char": 99
+    },
+    {
+     "w": "only",
+     "start": 5.46,
+     "end": 5.64,
+     "char": 103
+    },
+    {
+     "w": "driven",
+     "start": 5.64,
+     "end": 5.96,
+     "char": 108
+    },
+    {
+     "w": "the",
+     "start": 5.96,
+     "end": 6.18,
+     "char": 115
+    },
+    {
+     "w": "darkness",
+     "start": 6.18,
+     "end": 6.46,
+     "char": 119
+    },
+    {
+     "w": "back.",
+     "start": 6.46,
+     "end": 6.84,
+     "char": 128
+    }
+   ],
+   "cues": [
+    {
+     "text": "Hoofkoff dissolved into smoke and slipped away over the ridge.",
+     "start": 0.05,
+     "end": 2.76
+    },
+    {
+     "text": "The Light had not destroyed him.",
+     "start": 3.42,
+     "end": 4.8
+    },
+    {
+     "text": "It had only driven the darkness back.",
+     "start": 5.24,
+     "end": 6.84
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 22,
+    "total_words": 23
+   },
+   "qa": {
+    "duration_s": 7.253,
+    "rms": 0.0988,
+    "peak": 0.8108,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "hoofcough dissolved into smoke and slipped away over the ridge. The light had not destroyed him. It had only driven the darkness back.",
+    "word_overlap": 0.957,
+    "pass": true
+   }
+  },
+  {
+   "id": "w_ezra1",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "We did it! Wolfie, we did it!",
+   "display": "We did it! Wolfie, we did it!",
+   "src": "w_ezra1.mp3",
+   "duration": 3.024,
+   "bytes": 24428,
+   "hash": "398731c8019d",
+   "words": [
+    {
+     "w": "We",
+     "start": 0.0,
+     "end": 0.34,
+     "char": 0
+    },
+    {
+     "w": "did",
+     "start": 0.34,
+     "end": 0.58,
+     "char": 3
+    },
+    {
+     "w": "it!",
+     "start": 0.58,
+     "end": 0.76,
+     "char": 7
+    },
+    {
+     "w": "Wolfie,",
+     "start": 1.04,
+     "end": 1.54,
+     "char": 11
+    },
+    {
+     "w": "we",
+     "start": 1.88,
+     "end": 1.92,
+     "char": 19
+    },
+    {
+     "w": "did",
+     "start": 1.92,
+     "end": 2.18,
+     "char": 22
+    },
+    {
+     "w": "it!",
+     "start": 2.18,
+     "end": 2.42,
+     "char": 26
+    }
+   ],
+   "cues": [
+    {
+     "text": "We did it!",
+     "start": 0.0,
+     "end": 0.76
+    },
+    {
+     "text": "Wolfie, we did it!",
+     "start": 1.04,
+     "end": 2.42
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 7,
+    "total_words": 7
+   },
+   "qa": {
+    "duration_s": 2.97,
+    "rms": 0.0971,
+    "peak": 0.6613,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "We did it! Wolfie! We did it!",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "w_beni1",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "TITAN, step down. I want to dance!",
+   "display": "TITAN, step down. I want to dance!",
+   "src": "w_beni1.mp3",
+   "duration": 3.12,
+   "bytes": 25196,
+   "hash": "bfa1a6d59feb",
+   "words": [
+    {
+     "w": "TITAN,",
+     "start": 0.0,
+     "end": 0.56,
+     "char": 0
+    },
+    {
+     "w": "step",
+     "start": 1.0,
+     "end": 1.22,
+     "char": 7
+    },
+    {
+     "w": "down.",
+     "start": 1.22,
+     "end": 1.5,
+     "char": 12
+    },
+    {
+     "w": "I",
+     "start": 2.06,
+     "end": 2.08,
+     "char": 18
+    },
+    {
+     "w": "want",
+     "start": 2.08,
+     "end": 2.24,
+     "char": 20
+    },
+    {
+     "w": "to",
+     "start": 2.24,
+     "end": 2.34,
+     "char": 25
+    },
+    {
+     "w": "dance!",
+     "start": 2.34,
+     "end": 2.62,
+     "char": 28
+    }
+   ],
+   "cues": [
+    {
+     "text": "TITAN, step down.",
+     "start": 0.0,
+     "end": 1.5
+    },
+    {
+     "text": "I want to dance!",
+     "start": 2.06,
+     "end": 2.62
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 7,
+    "total_words": 7
+   },
+   "qa": {
+    "duration_s": 3.05,
+    "rms": 0.0972,
+    "peak": 0.7348,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Titan, step down. I want to dance.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "w_ch1",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Alright, boys. Time to show them how it's done.",
+   "display": "Alright, boys. Time to show them how it's done.",
+   "src": "w_ch1.mp3",
+   "duration": 3.24,
+   "bytes": 26156,
+   "hash": "c759f55611f1",
+   "words": [
+    {
+     "w": "Alright,",
+     "start": 0.0,
+     "end": 0.34,
+     "char": 0
+    },
+    {
+     "w": "boys.",
+     "start": 0.34,
+     "end": 0.64,
+     "char": 9
+    },
+    {
+     "w": "Time",
+     "start": 1.16,
+     "end": 1.38,
+     "char": 15
+    },
+    {
+     "w": "to",
+     "start": 1.38,
+     "end": 1.6,
+     "char": 20
+    },
+    {
+     "w": "show",
+     "start": 1.6,
+     "end": 1.82,
+     "char": 23
+    },
+    {
+     "w": "them",
+     "start": 1.82,
+     "end": 2.02,
+     "char": 28
+    },
+    {
+     "w": "how",
+     "start": 2.02,
+     "end": 2.24,
+     "char": 33
+    },
+    {
+     "w": "it's",
+     "start": 2.24,
+     "end": 2.5,
+     "char": 37
+    },
+    {
+     "w": "done.",
+     "start": 2.5,
+     "end": 2.72,
+     "char": 42
+    }
+   ],
+   "cues": [
+    {
+     "text": "Alright, boys.",
+     "start": 0.0,
+     "end": 0.64
+    },
+    {
+     "text": "Time to show them how it's done.",
+     "start": 1.16,
+     "end": 2.72
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 9,
+    "total_words": 9
+   },
+   "qa": {
+    "duration_s": 3.178,
+    "rms": 0.0973,
+    "peak": 0.4816,
+    "rms_dbfs": -20.2,
+    "silent": false,
+    "transcript": "Alright boys, time to show them how it's done.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "w_n1",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "And for a while, everyone danced.",
+   "display": "And for a while, everyone danced.",
+   "src": "w_n1.mp3",
+   "duration": 2.16,
+   "bytes": 17516,
+   "hash": "331c388a9b0a",
+   "words": [
+    {
+     "w": "And",
+     "start": 0.0,
+     "end": 0.2,
+     "char": 0
+    },
+    {
+     "w": "for",
+     "start": 0.2,
+     "end": 0.34,
+     "char": 4
+    },
+    {
+     "w": "a",
+     "start": 0.34,
+     "end": 0.4,
+     "char": 8
+    },
+    {
+     "w": "while,",
+     "start": 0.4,
+     "end": 0.7,
+     "char": 10
+    },
+    {
+     "w": "everyone",
+     "start": 0.7,
+     "end": 1.14,
+     "char": 17
+    },
+    {
+     "w": "danced.",
+     "start": 1.14,
+     "end": 1.54,
+     "char": 26
+    }
+   ],
+   "cues": [
+    {
+     "text": "And for a while, everyone danced.",
+     "start": 0.0,
+     "end": 1.54
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 6,
+    "total_words": 6
+   },
+   "qa": {
+    "duration_s": 2.111,
+    "rms": 0.0959,
+    "peak": 0.6606,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "and for a while everyone danced.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "w_n2",
+   "character": "narrator",
+   "voice": "kokoro-bf_emma",
+   "rate": 1.0,
+   "text": "The way was open. Heroes, switch places, explore Torkvara, and practice your powers. The Light is always with you.",
+   "display": "The way was open. Heroes, switch places, explore Torkvara, and practice your powers. The Light is always with you.",
+   "src": "w_n2.mp3",
+   "duration": 6.744,
+   "bytes": 54188,
+   "hash": "43beee6cb909",
+   "words": [
+    {
+     "w": "The",
+     "start": 0.0,
+     "end": 0.14,
+     "char": 0
+    },
+    {
+     "w": "way",
+     "start": 0.14,
+     "end": 0.24,
+     "char": 4
+    },
+    {
+     "w": "was",
+     "start": 0.24,
+     "end": 0.4,
+     "char": 8
+    },
+    {
+     "w": "open.",
+     "start": 0.4,
+     "end": 0.7,
+     "char": 12
+    },
+    {
+     "w": "Heroes,",
+     "start": 1.12,
+     "end": 1.4,
+     "char": 18
+    },
+    {
+     "w": "switch",
+     "start": 1.4,
+     "end": 1.82,
+     "char": 26
+    },
+    {
+     "w": "places,",
+     "start": 1.82,
+     "end": 2.24,
+     "char": 33
+    },
+    {
+     "w": "explore",
+     "start": 2.24,
+     "end": 2.86,
+     "char": 41
+    },
+    {
+     "w": "Torkvara,",
+     "start": 2.86,
+     "end": 3.44,
+     "char": 49
+    },
+    {
+     "w": "and",
+     "start": 3.44,
+     "end": 3.64,
+     "char": 59
+    },
+    {
+     "w": "practice",
+     "start": 3.64,
+     "end": 3.9,
+     "char": 63
+    },
+    {
+     "w": "your",
+     "start": 3.9,
+     "end": 4.16,
+     "char": 72
+    },
+    {
+     "w": "powers.",
+     "start": 4.16,
+     "end": 4.44,
+     "char": 77
+    },
+    {
+     "w": "The",
+     "start": 5.2,
+     "end": 5.22,
+     "char": 85
+    },
+    {
+     "w": "Light",
+     "start": 5.22,
+     "end": 5.42,
+     "char": 89
+    },
+    {
+     "w": "is",
+     "start": 5.42,
+     "end": 5.62,
+     "char": 95
+    },
+    {
+     "w": "always",
+     "start": 5.62,
+     "end": 5.86,
+     "char": 98
+    },
+    {
+     "w": "with",
+     "start": 5.86,
+     "end": 6.2,
+     "char": 105
+    },
+    {
+     "w": "you.",
+     "start": 6.2,
+     "end": 6.42,
+     "char": 110
+    }
+   ],
+   "cues": [
+    {
+     "text": "The way was open.",
+     "start": 0.0,
+     "end": 0.7
+    },
+    {
+     "text": "Heroes, switch places, explore Torkvara, and practice your powers.",
+     "start": 1.12,
+     "end": 4.44
+    },
+    {
+     "text": "The Light is always with you.",
+     "start": 5.2,
+     "end": 6.42
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 18,
+    "total_words": 19
+   },
+   "qa": {
+    "duration_s": 6.677,
+    "rms": 0.0987,
+    "peak": 0.7497,
+    "rms_dbfs": -20.1,
+    "silent": false,
+    "transcript": "The way was open, heroes switch places explore talk Vara and practice your powers. The light is always with you.",
+    "word_overlap": 0.947,
+    "pass": true
+   }
+  },
+  {
+   "id": "g_titan_light",
+   "character": "titan",
+   "voice": "kokoro-am_onyx",
+   "rate": 0.9,
+   "text": "Purify Light ready.",
+   "display": "Purify Light ready.",
+   "src": "g_titan_light.mp3",
+   "duration": 2.52,
+   "bytes": 20396,
+   "hash": "36b161767fe1",
+   "words": [
+    {
+     "w": "Purify",
+     "start": 0.0,
+     "end": 0.56,
+     "char": 0
+    },
+    {
+     "w": "Light",
+     "start": 0.56,
+     "end": 1.02,
+     "char": 7
+    },
+    {
+     "w": "ready.",
+     "start": 1.02,
+     "end": 1.5,
+     "char": 13
+    }
+   ],
+   "cues": [
+    {
+     "text": "Purify Light ready.",
+     "start": 0.0,
+     "end": 1.5
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 2.431,
+    "rms": 0.0964,
+    "peak": 0.5889,
+    "rms_dbfs": -20.3,
+    "silent": false,
+    "transcript": "Purify light ready.",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "fx": "robotic (same ffmpeg chain as Build 004)"
+  },
+  {
+   "id": "g_ezra_light",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "Light, Wolfie!",
+   "display": "Light, Wolfie!",
+   "src": "g_ezra_light.mp3",
+   "duration": 1.512,
+   "bytes": 12332,
+   "hash": "8873c6af5e91",
+   "words": [
+    {
+     "w": "Light,",
+     "start": 0.0,
+     "end": 0.48,
+     "char": 0
+    },
+    {
+     "w": "Wolfie!",
+     "start": 0.48,
+     "end": 1.06,
+     "char": 7
+    }
+   ],
+   "cues": [
+    {
+     "text": "Light, Wolfie!",
+     "start": 0.0,
+     "end": 1.06
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 2,
+    "total_words": 2
+   },
+   "qa": {
+    "duration_s": 1.45,
+    "rms": 0.094,
+    "peak": 0.7944,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "Light Wolfie!",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "g_ch_light",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Staff, show me the Light.",
+   "display": "Staff, show me the Light.",
+   "src": "g_ch_light.mp3",
+   "duration": 1.872,
+   "bytes": 15212,
+   "hash": "928be370c245",
+   "words": [
+    {
+     "w": "Staff,",
+     "start": 0.0,
+     "end": 0.44,
+     "char": 0
+    },
+    {
+     "w": "show",
+     "start": 0.44,
+     "end": 0.74,
+     "char": 7
+    },
+    {
+     "w": "me",
+     "start": 0.74,
+     "end": 0.94,
+     "char": 12
+    },
+    {
+     "w": "the",
+     "start": 0.94,
+     "end": 1.04,
+     "char": 15
+    },
+    {
+     "w": "Light.",
+     "start": 1.04,
+     "end": 1.3,
+     "char": 19
+    }
+   ],
+   "cues": [
+    {
+     "text": "Staff, show me the Light.",
+     "start": 0.0,
+     "end": 1.3
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 5,
+    "total_words": 5
+   },
+   "qa": {
+    "duration_s": 1.813,
+    "rms": 0.0952,
+    "peak": 0.571,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Staff show me the light.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "g_beni_exit",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "Time to climb out!",
+   "display": "Time to climb out!",
+   "src": "g_beni_exit.mp3",
+   "duration": 1.584,
+   "bytes": 12908,
+   "hash": "01ae1d3e50ab",
+   "words": [
+    {
+     "w": "Time",
+     "start": 0.0,
+     "end": 0.42,
+     "char": 0
+    },
+    {
+     "w": "to",
+     "start": 0.42,
+     "end": 0.56,
+     "char": 5
+    },
+    {
+     "w": "climb",
+     "start": 0.56,
+     "end": 0.76,
+     "char": 8
+    },
+    {
+     "w": "out!",
+     "start": 0.76,
+     "end": 1.14,
+     "char": 14
+    }
+   ],
+   "cues": [
+    {
+     "text": "Time to climb out!",
+     "start": 0.0,
+     "end": 1.14
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 4,
+    "total_words": 4
+   },
+   "qa": {
+    "duration_s": 1.53,
+    "rms": 0.0943,
+    "peak": 0.5535,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "Time to climb out!",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "sw_ezra",
+   "character": "ezra",
+   "voice": "qwen-boy_a",
+   "rate": 1.0,
+   "text": "Let's go, Wolfie!",
+   "display": "Let's go, Wolfie!",
+   "src": "sw_ezra.mp3",
+   "duration": 1.584,
+   "bytes": 12908,
+   "hash": "922d72d1d79e",
+   "words": [
+    {
+     "w": "Let's",
+     "start": 0.0,
+     "end": 0.44,
+     "char": 0
+    },
+    {
+     "w": "go,",
+     "start": 0.44,
+     "end": 0.6,
+     "char": 6
+    },
+    {
+     "w": "Wolfie!",
+     "start": 0.72,
+     "end": 1.08,
+     "char": 10
+    }
+   ],
+   "cues": [
+    {
+     "text": "Let's go, Wolfie!",
+     "start": 0.0,
+     "end": 1.08
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 1.53,
+    "rms": 0.0943,
+    "peak": 0.6075,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "ACTIONS Let's go, Wolfie!",
+    "word_overlap": 1.0,
+    "pass": true
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  },
+  {
+   "id": "sw_chrisler",
+   "character": "chrisler",
+   "voice": "kokoro-bm_george",
+   "rate": 1.0,
+   "text": "Alright. Let's move.",
+   "display": "Alright. Let's move.",
+   "src": "sw_chrisler.mp3",
+   "duration": 1.8,
+   "bytes": 14636,
+   "hash": "f4b6a2afa362",
+   "words": [
+    {
+     "w": "Alright.",
+     "start": 0.0,
+     "end": 0.36,
+     "char": 0
+    },
+    {
+     "w": "Let's",
+     "start": 0.74,
+     "end": 0.96,
+     "char": 9
+    },
+    {
+     "w": "move.",
+     "start": 0.96,
+     "end": 1.2,
+     "char": 15
+    }
+   ],
+   "cues": [
+    {
+     "text": "Alright.",
+     "start": 0.0,
+     "end": 0.36
+    },
+    {
+     "text": "Let's move.",
+     "start": 0.74,
+     "end": 1.2
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 3,
+    "total_words": 3
+   },
+   "qa": {
+    "duration_s": 1.749,
+    "rms": 0.095,
+    "peak": 0.4461,
+    "rms_dbfs": -20.4,
+    "silent": false,
+    "transcript": "Alright, let's move.",
+    "word_overlap": 1.0,
+    "pass": true
+   }
+  },
+  {
+   "id": "sw_beni",
+   "character": "beni",
+   "voice": "qwen-boy_b",
+   "rate": 1.0,
+   "text": "TITAN, ready!",
+   "display": "TITAN, ready!",
+   "src": "sw_beni.mp3",
+   "duration": 1.584,
+   "bytes": 12908,
+   "hash": "cbc1ce5b822c",
+   "words": [
+    {
+     "w": "TITAN,",
+     "start": 0.05,
+     "end": 0.98,
+     "char": 0
+    },
+    {
+     "w": "ready!",
+     "start": 0.98,
+     "end": 1.14,
+     "char": 7
+    }
+   ],
+   "cues": [
+    {
+     "text": "TITAN, ready!",
+     "start": 0.05,
+     "end": 1.14
+    }
+   ],
+   "timing": {
+    "method": "whisper-aligned",
+    "matched_words": 1,
+    "total_words": 2
+   },
+   "qa": {
+    "duration_s": 1.53,
+    "rms": 0.0943,
+    "peak": 0.6573,
+    "rms_dbfs": -20.5,
+    "silent": false,
+    "transcript": "Tight tan, ready.",
+    "word_overlap": 0.5,
+    "pass": false
+   },
+   "engine": "Qwen3-TTS-12Hz-0.6B-Base voice-lock of a Qwen3-TTS 1.7B VoiceDesign synthetic boy voice (Apache-2.0); no real person cloned"
+  }
+ ],
+ "rendered_by": "tools/post_audio_b007.py"
+}
