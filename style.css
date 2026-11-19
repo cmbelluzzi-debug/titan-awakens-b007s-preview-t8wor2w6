@@ -217,5 +217,5 @@ body.desk #compass{font-size:16px;padding:6px 16px 6px 10px}body.desk #cArrow{wi
 @keyframes gpulse{0%,100%{opacity:.75;scale:1}50%{opacity:1;scale:1.18}}
 #stepDone{position:fixed;left:50%;top:calc(88px + env(safe-area-inset-top));transform:translateX(-50%);z-index:7;background:#1f4a2acc;border:2px solid #9dffb4;border-radius:16px;padding:8px 22px;font-size:20px;font-weight:bold;color:#e8ffe9;pointer-events:none;text-shadow:0 1px 3px #000}
 #stepDone.hidden{display:none}#stepDone.pop{animation:sdpop .5s ease-out}@keyframes sdpop{0%{transform:translateX(-50%) scale(.6);opacity:0}60%{transform:translateX(-50%) scale(1.12);opacity:1}100%{transform:translateX(-50%) scale(1)}}
-@media (max-width:600px){#compass{left:12px;max-width:calc(100vw - 24px)}#stepDone{top:calc(140px + env(safe-area-inset-top));font-size:16px}}
+@media (max-width:600px){#compass{left:12px;top:calc(120px + env(safe-area-inset-top));max-width:calc(100vw - 24px)}#stepDone{top:calc(176px + env(safe-area-inset-top));font-size:16px}}
 body.vista #deskHint,body.vista #deskBar,body.vista #quest,body.vista #compass{display:none!important}
