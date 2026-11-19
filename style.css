@@ -198,10 +198,24 @@ body.desk .mb#bHeroes,body.desk .mb#bEmote{cursor:pointer}
  body.desk #dialog{width:min(70vw,980px);bottom:calc(30px + env(safe-area-inset-bottom));padding:16px 24px;border-radius:20px}
  body.desk #dialog .dn{font-size:20px}body.desk #dialog .dt{font-size:22px;min-height:66px}body.desk #dialog .dnext{font-size:14px}
  body.desk #bossbar{width:min(40vw,560px);top:20px}body.desk #bossbar .bn{font-size:18px}body.desk #bossbar .bb{height:14px}
- body.desk .mb{left:22px;top:66px}body.desk .mb#bHeroes{top:122px;left:22px}body.desk .mb#bEmote{top:178px;left:22px}
+ body.desk .mb{left:22px;top:74px}body.desk .mb#bHeroes{top:130px;left:22px}body.desk .mb#bEmote{top:186px;left:22px}
  body.desk #abilityTag{display:none}
  body.desk .db{font-size:16px;min-width:116px}
  body.desk #deskHint{font-size:14px}
 }
 @media (min-width:1600px){body.desk #quest{font-size:18px;max-width:440px}body.desk #hearts{font-size:36px}body.desk #deskHint{font-size:15px;max-width:400px}}
 body.desk:not(.touch) #touch{display:none!important}
+@media (max-width:1300px){body.desk #deskHint{bottom:calc(116px + env(safe-area-inset-bottom));max-width:300px}}
+
+/* Stage D: Whisperwood guidance */
+#compass{max-width:min(92vw,560px)}#cCol{display:flex;flex-direction:column;line-height:1.25;min-width:0}#cLbl{font-weight:bold}#cTxt{color:#ffe9a3;font-size:14px;white-space:normal}
+body.desk #compass{font-size:16px;padding:6px 16px 6px 10px}body.desk #cArrow{width:32px;height:32px;font-size:24px}body.desk #cTxt{font-size:17px}
+#guide{position:fixed;z-index:6;pointer-events:none;color:#fff;text-shadow:0 1px 4px #000}#guide.hidden{display:none}
+#guide.tag{background:#2a2208cc;border:1px solid #ffe08acc;border-radius:12px;padding:3px 10px;font-size:14px;font-weight:bold;white-space:nowrap}
+#guide.edge{display:flex;flex-direction:column;align-items:center;gap:2px}#guide.edge .ga{font-size:34px;color:#ffe08a;filter:drop-shadow(0 0 6px #000);animation:gpulse 1.1s ease-in-out infinite}
+#guide.edge .gl{background:#2a2208cc;border:1px solid #ffe08acc;border-radius:12px;padding:2px 9px;font-size:13px;font-weight:bold;white-space:nowrap}
+@keyframes gpulse{0%,100%{opacity:.75;scale:1}50%{opacity:1;scale:1.18}}
+#stepDone{position:fixed;left:50%;top:calc(88px + env(safe-area-inset-top));transform:translateX(-50%);z-index:7;background:#1f4a2acc;border:2px solid #9dffb4;border-radius:16px;padding:8px 22px;font-size:20px;font-weight:bold;color:#e8ffe9;pointer-events:none;text-shadow:0 1px 3px #000}
+#stepDone.hidden{display:none}#stepDone.pop{animation:sdpop .5s ease-out}@keyframes sdpop{0%{transform:translateX(-50%) scale(.6);opacity:0}60%{transform:translateX(-50%) scale(1.12);opacity:1}100%{transform:translateX(-50%) scale(1)}}
+@media (max-width:600px){#compass{left:12px;max-width:calc(100vw - 24px)}#stepDone{top:calc(140px + env(safe-area-inset-top));font-size:16px}}
+body.vista #deskHint,body.vista #deskBar,body.vista #quest,body.vista #compass{display:none!important}

@@ -4,4 +4,4 @@ A family game by Chris Belluzzi. Open index.html via any static web server (or t
 
 **Audio notice:** Chrisler's lines (assets/audio_b007_clone) use a synthetic AI voice clone of Chris Belluzzi, made with his consent; its public use in this preview was authorised by Chris on 2026-11-17. All other voices are synthetic text-to-speech.
 
-Built Thu Nov 19 2026 00:20:07 GMT+0100 (Central European Standard Time)
+Built Thu Nov 19 2026 01:00:38 GMT+0100 (Central European Standard Time)
